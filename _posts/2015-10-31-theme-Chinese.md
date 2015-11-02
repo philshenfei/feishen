@@ -120,8 +120,12 @@ el.each(function() {
 \dot{y} = \rho x - y - xz \\ 
 \dot{z} = -\beta z + xy
 \end{eqnarray}
-$$\frac{\mathrm{d}D_e}{\mathrm{d}N}=[1-(1-D)^{\beta+1}]^{\alpha(\sigma_{max},...
-\bar{\sigma})}\Big[\frac{\sigma_{max}-\bar{\sigma}}{M_0 (1-b_2\bar{\sigma})(1-D)}\Big]^{\beta}$$
+
+\begin{eqnarray}
+\frac{\mathrm{d}D_e}{\mathrm{d}N}&=&[1-(1-D)^{\beta+1}]^{\alpha(\sigma_{max}\\
+&&\bar{\sigma})}\Big[\frac{\sigma_{max}-\bar{\sigma}}{M_0 (1-b_2\bar{\sigma})(1-D)}\Big]^{\beta}
+\end{eqnarray}
+
 \begin{equation*}
    E = mc^2
 \end{equation*}
