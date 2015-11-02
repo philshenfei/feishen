@@ -45,6 +45,7 @@ div.wrap, #comments{box-shadow:0 1px 7px #bcbcbc;}
 .wrap pre code{padding:0!important;font-size:12px!important;border:none!important;}
 .wrap code{font-size:14px!important;color:#f8f8f2!important;padding:0 .2em!important;border:1px solid #dedede!important;}
 .wrap a code,.wrap a:link code,.wrap a:visited code{color:#4183c4!important;}
+.wrap p code{color:rgba(0,0,0,.8)!important;background-color: rgba(0, 0, 0,.05);}
 .wrap img{max-width:100%;}
 .wrap pre.console{margin:1em 0!important;font-size:12px!important;background-color:black!important;padding:.5em!important;line-height:1.5em!important;color:white!important;}
 .wrap pre.console code{padding:0!important;font-size:12px!important;background-color:black!important;border:none!important;color:white!important;}
@@ -155,6 +156,7 @@ div.video {
 @media (max-width: 550px) {
 .wrap header {
   display: block;
+  padding: 5px;
 }
 .wrap header a.website-title {
   text-align: center;
@@ -169,6 +171,7 @@ div.video {
   display: block;
   text-align: center;
   position: relative;
-  overflow: hidden; 
+  overflow: hidden;
+  padding: 5px 0; 
 }
 }

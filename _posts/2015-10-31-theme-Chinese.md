@@ -83,7 +83,7 @@ nav a.current {
   }
 }
 
-一段C++代码：
+//一段C++代码：
 #include <iostream>
 #include std::cout;
 
