@@ -151,6 +151,8 @@ div.video {
   margin-top: -10px;
   margin-left: 10px;
 }
-ui.ds-comments {
-  margin-right: 0px;
-}
+
+/*---duoshuo comments---*/
+#ds-thread #ds-reset .ds-comments {
+     margin-right: 0
+ }
