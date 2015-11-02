@@ -114,13 +114,13 @@ div.wrap, #comments{box-shadow:0 1px 7px #bcbcbc;}
   font-weight: 600;
 }
 .wrap footer .inner {
-  max-width: 800px;
+  max-width:100%;
 }
 div.cover-image-container {
   text-align: center;
 }
 div.cover-image-container img {
-  max-width:800px;
+  max-width:100%;
   height:auto;
 }
 div.video {
