@@ -65,7 +65,7 @@ div.wrap, #comments{box-shadow:0 1px 7px #bcbcbc;}
 .wrap header {
   margin-top: 20px;
   margin-bottom: 20px;
-  position: relative;
+  position: relative; 
   color: rgba({{ site.text-color }},.5);
   background-color: #fff;
   border-bottom: 4px solid #cc0000;
@@ -80,7 +80,7 @@ div.wrap, #comments{box-shadow:0 1px 7px #bcbcbc;}
   text-decoration: none !important;
   color: #000;
 }
-.wrap header nav {
+.wrap header nav { 
   position: absolute;
   height: 40px;
   top: 0;
@@ -150,4 +150,25 @@ div.video {
   float: right;
   margin-top: -10px;
   margin-left: 10px;
+}
+
+@media (max-width: 550px) {
+.wrap header {
+  display: block;
+}
+.wrap header a.website-title {
+  text-align: center;
+  vertical-align: baseline;
+}
+.wrap header nav { 
+  display: block;
+  position: relative;
+  height: auto;
+}
+.wrap header nav a {
+  display: block;
+  text-align: center;
+  position: relative;
+  overflow: hidden; 
+}
 }
