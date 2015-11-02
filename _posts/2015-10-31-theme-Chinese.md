@@ -120,7 +120,8 @@ el.each(function() {
 \dot{y} = \rho x - y - xz \\ 
 \dot{z} = -\beta z + xy
 \end{eqnarray}
-$$\frac{\mathrm{d}D_e}{\mathrm{d}N}=[1-(1-D)^{\beta+1}]^{\alpha(\sigma_{max},\bar{\sigma})}\Big[\frac{\sigma_{max}-\bar{\sigma}}{M_0 (1-b_2\bar{\sigma})(1-D)}\Big]^{\beta}$$
+$$\frac{\mathrm{d}D_e}{\mathrm{d}N}=[1-(1-D)^{\beta+1}]^{\alpha(\sigma_{max},...
+\bar{\sigma})}\Big[\frac{\sigma_{max}-\bar{\sigma}}{M_0 (1-b_2\bar{\sigma})(1-D)}\Big]^{\beta}$$
 \begin{equation*}
    E = mc^2
 \end{equation*}
@@ -132,7 +133,7 @@ If you embed a video from YouTube, Vimeo or another popular video website [FitVi
 
 <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/BRRolKTlF6Q" frameborder="0" allowfullscreen></iframe> -->
 <div class="video">
-<iframe src="http://www.tudou.com/programs/view/html5embed.action?type=0&code=wMgsbXz5tvA&lcode=&resourceId=0_06_05_99" allowtransparency="true" allowfullscreen="true" allowfullscreenInteractive="true" scrolling="no" border="0" frameborder="0" style="width:480px;height:400px;"></iframe>
+<iframe src="http://www.tudou.com/programs/view/html5embed.action?type=0&code=wMgsbXz5tvA&lcode=&resourceId=0_06_05_99" allowtransparency="true" allowfullscreen="true" allowfullscreenInteractive="true" scrolling="no" border="0" frameborder="0"></iframe>
 </div>
 It's time for a break.
 
