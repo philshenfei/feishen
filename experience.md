@@ -1,7 +1,8 @@
 ---
-layout: page
-title: Experience 
+layout: default
 ---
+
+# Experience
 
 ## Education Experience
 
