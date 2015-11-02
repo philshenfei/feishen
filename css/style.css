@@ -125,6 +125,7 @@ div.cover-image-container img {
 }
 div.video {
   text-align: center;
+  max-width:100%;
 }
 .wrap .pagination {
   font-weight: 600;
@@ -149,4 +150,7 @@ div.video {
   float: right;
   margin-top: -10px;
   margin-left: 10px;
+}
+div.formaula {
+  max-width:100%;
 }
