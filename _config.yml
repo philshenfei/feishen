@@ -21,8 +21,7 @@ author:
   # want it.
   info:
 
-#url: http://philshenfei.github.io
-#baseurl: http://philshenfei.github.io/feishen
+url:
 baseurl:
 
 # language attribute in <html> element.
