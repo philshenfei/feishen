@@ -3,7 +3,14 @@ title: 主题介绍
 cover-image: marilyn-monroe.jpg
 ---
 
-这是这个主题的中文介绍，该主题不错，单列设计，简洁美观，比较适合于博客，打算再次基础上设计自己的博客模板。
+这是关于本主题的一篇介绍。主题来源于 steinvc 设计的 [holo alfa](http://steinvc.github.io/holo-alfa/) 模板，并在此基础上进行了一系列的修改，增加了对不同设备的自适应显示。该主题采用单列设计，简洁美观，比较适合于博客。
+
+需要注意的是，对图片、高亮代码、公式、视频的使用与 Markdown 的自带语法有些不同：
+
+* 对于图片，建议不用采用 `![figure alt](figure url)`，因为这种类型的图片已经设置了一种特殊的 css 样式。而建议采用 html 的语法 `<div class="figure">...</div>`。
+* 对于高亮代码，在代码前后分别添加 `{\% highlight css \%}` 和 `{\% endhighlight \%}` 。
+* 对于公式，采用 `<div class="formula">...</div>`。
+* 对于视频，采用 `<div class="video">...</div>`。
 
 This post is a showcase of what Holo Alfa looks like, and a reference guide for how you can use it to make your blog shine.
 
