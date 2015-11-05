@@ -146,6 +146,7 @@ If you embed a video from YouTube, Vimeo or another popular video website [FitVi
 </div>
 
 In Markdown you can create a horizontal rule with `---`.
+
 ---
 
 ## Tables ##
