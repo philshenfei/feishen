@@ -13,7 +13,7 @@ Windows 环境下文本文件的字符集和编码是比较特殊的，因此在
 * Code Page 代码页是字符集编码的别称，主要在 Windows 中使用。例如 437（最初的 IBM PC 代码页，实现了扩展 ASCII 字符集），936（简体中文 GBK），1200（UTF-16 LE），1201（UTF-16 BE），65001（UTF-8）。
 
 <div class="figure"> 
- <img src="{{ site.baseurl }}/img/Encoding.jpg">
+ <img src="{{ site.baseurl }}/img/encoding.jpg">
 <small><capfigure>图 1 UTF-8 编码</capfigure></small>
 </div>
 
