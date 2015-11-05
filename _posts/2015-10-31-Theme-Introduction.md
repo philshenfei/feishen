@@ -14,7 +14,7 @@ cover-image: marilyn-monroe.jpg
 
 没有采用 `# H1 #` 来添加一级标题，而是通过 `title` 来设置博客标题。
 
-通过设置 cover-image 来添加封面图片，图片的宽度尽量超过 800px，通过自动缩小来适应页面。
+通过设置 cover-image 来添加封面图片，图片的宽度尽量超过 800px，通过自动缩小来适应页面。页面中的图片左对齐，没有居中处理。如果需要居中的话，可以在 css 文件 img 中设置 `margin: 0 auto;`。 
 
 ## 二级标题 ##
 
@@ -153,5 +153,3 @@ Tables are a part of [GFM](https://help.github.com/articles/github-flavored-mark
 | col 3 is      | some wordy text | $1600 |
 | col 2 is      | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |
-
-## That's it, for now... ##
