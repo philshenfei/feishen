@@ -61,7 +61,6 @@ div.wrap, #comments{box-shadow:0 1px 7px #bcbcbc;}
 .wrap .align-center{display:block;text-align:center;}
 .wrap .align-right{display:block;text-align:right;}
 
-.wrap img{display: block;max-width:100%;}
 /*---Add---*/
 
 .wrap header {
@@ -118,9 +117,6 @@ div.wrap, #comments{box-shadow:0 1px 7px #bcbcbc;}
 .wrap footer .inner {
   max-width:100%;
 }
-div.cover-image-container {
-  text-align: center;
-}
 div.cover-image-container img {
   max-width:100%;
   height:auto;
@@ -176,3 +172,15 @@ div.video {
   padding: 5px 0; 
 }
 }
+.wrap img {
+	display: block;
+	max-width:100%;
+}
+/* 图片和图题居中
+.wrap img {
+	margin: 0 auto;
+}
+div.figure {
+  text-align: center;
+}
+*/

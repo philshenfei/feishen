@@ -14,9 +14,7 @@ cover-image: marilyn-monroe.jpg
 
 没有采用 `# H1 #` 来添加一级标题，而是通过 `title` 来设置博客标题。
 
-This post is a showcase of what Holo Alfa looks like, and a reference guide for how you can use it to make your blog shine.
-
-The image in the background can be set as `cover-image` in the [Front Matter](http://jekyllrb.com/docs/frontmatter/) of a post or page. The "fade to white" will be created automatically. Cover images are stored in `/img/covers/`.
+通过设置 cover-image 来添加封面图片，图片的宽度尽量超过 800px，通过自动缩小来适应页面。
 
 ## 二级标题 ##
 
@@ -53,8 +51,6 @@ iPad mini 4 被称为苹果公司史上 “最憋屈” 的产品，在发布会
 >众所周知耳机具有使用性广、使用门槛低、局限性低的特点，从德国拜亚动力在 1924 年发明了第一款副动圈式 DT48 耳机至今，耳机已经发生了翻天覆地的提升，也是数码控们必备的周边设备之一，由于耳机的用途不同，耳机的种类也非常丰富。在数不胜数的耳机产品当中，寻找一双适合自己的耳机可不是一件容易的事情，今天就以“耳机”为主题展开分享。
 
 这次拿到 iPad mini 4 体验，十分难得，感谢某某人从某某地搞到给我体验一段时间，mini 4 的外包装与 mini 2 相比大小上并无大的差异，但 mini 4 的包装则会更轻薄，正面的依旧是产品图，但是 mini 4 则是 mini 4 的正侧面，主要是凸显 mini 4 的薄；而内部结构并无差异，与以前苹果 mini 平板的一样。
-
-Large enough images will be wider than the page.
 
 **Pro tip:** Use `<small></small>` tags on the same line as an image to create a source.
 
@@ -159,5 +155,3 @@ Tables are a part of [GFM](https://help.github.com/articles/github-flavored-mark
 | zebra stripes | are neat        |    $1 |
 
 ## That's it, for now... ##
-
-You can get Holo Alfa at the [Github repository](https://github.com/steinvc/holo-alfa). Maybe add/suggest new features. Or report bugs.
