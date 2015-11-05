@@ -14,13 +14,13 @@ BMP 文件由四部分组成：
 本文以 24 位位图 lotus.bmp 文件来具体说明。
 
 <div class="figure">
-  <img src="{{ site.baseurl }}/img/lotus.jpg"> 
+  <img src="{{ site.baseurl }}/img/lotus.bmp"> 
   <small><capfigure>图 1 lotus.bmp</capfigure></small>
 </div>
 
 首先是位图文件头，其数据结构定义为：
 
-{% highlight %}
+{% highlight css %}
 typedef struct tagBITMAPFILEHEADER{
 WORD bfType;//位图文件的类型，必须为BM
 DWORD bfSize;//位图文件的大小，以字节为单位
@@ -39,7 +39,7 @@ DWORD bfOffBits;//位图数据的起始位置，以相对于位图文件头的�
 
 位图信息头的数据结构为：
 
-{% highlight %}
+{% highlight css %}
 typedef struct tagBITMAPINFOHEADER{
 DWORD biSize;//本结构所占用字节数
 LONG biWidth;//位图的宽度，以像素为单位
@@ -63,4 +63,4 @@ DWORD biClrImportant;//位图显示过程中重要的颜色数
 
 需要注意的是：
 
-* biXPelsPerMeter 的值为 3780，可以根据位图的 DPI 来计算，例如 lotus.bmp 的 DPI 为 96，即 2.54 厘米的长度上有 96 个像素，那么每米的像素数为 3780。
+* biXPelsPerMeter 的值为 3780，可以根据位图的 DPI 来计算。例如 lotus.bmp 的 DPI 为 96，即 2.54 厘米的长度上有 96 个像素，那么每米的像素数为 3780。
