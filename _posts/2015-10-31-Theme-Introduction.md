@@ -12,6 +12,8 @@ cover-image: marilyn-monroe.jpg
 * 对于公式，采用 `<div class="formula">...</div>`。
 * 对于视频，采用 `<div class="video">...</div>`。
 
+没有采用 `# H1 #` 来添加一级标题，而是通过 `title` 来设置博客标题。
+
 This post is a showcase of what Holo Alfa looks like, and a reference guide for how you can use it to make your blog shine.
 
 You can write posts using the familiar [Markdown](http://daringfireball.net/projects/markdown/) syntax, plus some extra's from [GFM](https://help.github.com/articles/github-flavored-markdown/). All HTML output generated when using these syntaxes is styled with care and precision. Generous whitespace is used to give your content some breathing room.
@@ -142,15 +144,12 @@ el.each(function() {
 
 If you embed a video from YouTube, Vimeo or another popular video website [FitVids.js](http://fitvidsjs.com/) takes care of it being responsive.
 
-<!--<iframe width="560" height="315" src="https://www.youtube.com/embed/BRRolKTlF6Q" frameborder="0" allowfullscreen></iframe> -->
 <div class="video">
 <iframe width="480" height="400" src="http://www.tudou.com/programs/view/html5embed.action?type=0&code=wMgsbXz5tvA&lcode=&resourceId=0_06_05_99" allowtransparency="true" allowfullscreen="true" allowfullscreenInteractive="true" scrolling="no" border="0" frameborder="0"></iframe>
 </div>
-It's time for a break.
-
----
 
 In Markdown you can create a horizontal rule with `---`.
+---
 
 ## Tables ##
 
