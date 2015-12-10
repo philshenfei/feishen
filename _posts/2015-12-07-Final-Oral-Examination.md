@@ -1,5 +1,5 @@
 ---
-title: 博士学位论文答辩顺利通过
+title: 我的博士学位论文答辩
 cover-image: final-oral-examination.jpg
 ---
 
