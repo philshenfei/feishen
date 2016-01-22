@@ -20,7 +20,7 @@ title: Album
 <small>▲ 2015/10/10 @北京香山骑车</small>
 
 <div class="figure">
-  <img src="{{ site.baseurl }}/img/album/2015/06/23.jpg">  
+  <img src="{{ site.baseurl }}/img/album/2015-06-23.jpg">  
 </div>
 <small>▲ 2015/06/23 @秦皇岛老龙头</small>
 
