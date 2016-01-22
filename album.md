@@ -8,14 +8,14 @@ title: Album
 <div class="figure">
   <img src="{{ site.baseurl }}/img/album/boshibiye.jpg">
 </div>
-<small>▲ 2016/01/14 博士毕业拍照@北航</small>
+<small>▲ 2016/01/14 @北航博士毕业拍照</small>
 
 <div class="figure">
   <img src="{{ site.baseurl }}/img/album/xiangshan-1.jpg"> 
   <img src="{{ site.baseurl }}/img/album/xiangshan-2.jpg">
   <img src="{{ site.baseurl }}/img/album/xiangshan-3.jpg">  
 </div>
-<small>▲ 2015/10/10 骑车@北京香山</small>
+<small>▲ 2015/10/10 @北京香山骑车</small>
 
 <div class="figure">
   <img src="{{ site.baseurl }}/img/album/qinhuangdao-2.jpg">  
@@ -25,7 +25,7 @@ title: Album
 <div class="figure">
   <img src="{{ site.baseurl }}/img/album/qinhuangdao-1.jpg">  
 </div>
-<small>▲ 2015/06/21 赶海@秦皇岛</small>
+<small>▲ 2015/06/21 @秦皇岛赶海</small>
 
 <div class="figure">
   <img src="{{ site.baseurl }}/img/album/jingdezhen.jpg">  
