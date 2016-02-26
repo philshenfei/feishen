@@ -34,7 +34,7 @@ lang: en
 ##############
 
 
-footer-text: © 2015 Fei Shen. Published with <a href="https://pages.github.com/">GitHub Pages</a>, powered by <a href="http://jekyllrb.com">Jekyll</a>.
+footer-text: © 2016 Fei Shen. Published with <a href="https://pages.github.com/">GitHub Pages</a>, powered by <a href="http://jekyllrb.com">Jekyll</a>.
 
 # Preferably 64px in height. Leave empty = disable.
 logo-image:

@@ -150,7 +150,7 @@ div.video {
   margin-left: 10px;
 }
 
-@media (max-width: 550px) {
+@media (max-width: 620px) {
 .wrap header {
   display: block;
   padding: 5px;
@@ -184,18 +184,32 @@ div.figure {
   text-align: center;
 }
 */
-
+@media (min-width: 621px) {
 div.rightcolumn{
 	float:right;
-	width: 75%;
+	width: 74%;
 }
 div.leftcolumn{
+	margin-top: 10px;
 	float:left;
-	width: 18%;
+	width: 120px;
 }
 div.mainpage{
-	max-width: 750px;
-	height: 220px;
+	max-width: 95%;
+	overflow:auto;
 	margin: 0 auto;
 	margin-top: 10px;
+}
+}
+@media (max-width: 620px) {
+div.rightcolumn{
+  margin: 0 auto;
+}
+div.leftcolumn{
+  margin: 0 auto;
+  width: 120px;
+}	
+div.mainpage{
+  overflow:auto;
+}
 }

@@ -17,5 +17,4 @@ layout: default
 <p>If you want to get in touch with me, please send me <a class="email" href="mailto:philshenfei@gmail.com">email</a>.</p>
 
 </div>
-
 </div>
