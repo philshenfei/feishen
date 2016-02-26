@@ -184,3 +184,18 @@ div.figure {
   text-align: center;
 }
 */
+
+div.rightcolumn{
+	float:right;
+	width: 75%;
+}
+div.leftcolumn{
+	float:left;
+	width: 18%;
+}
+div.mainpage{
+	max-width: 750px;
+	height: 220px;
+	margin: 0 auto;
+	margin-top: 10px;
+}
