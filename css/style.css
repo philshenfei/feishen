@@ -200,6 +200,19 @@ div.mainpage{
 	margin: 0 auto;
 	margin-top: 10px;
 }
+div.rightcolumn2{
+	float:right;
+	width: 75%;
+}
+div.leftcolumn2{
+	float:left;
+	width: 25%;
+	text-align: center;
+}
+div.mainpage2{
+	overflow:auto;
+	margin: 0 auto;
+}
 }
 @media (max-width: 620px) {
 div.rightcolumn{
@@ -210,6 +223,15 @@ div.leftcolumn{
   width: 120px;
 }	
 div.mainpage{
+  overflow:auto;
+}
+div.rightcolumn2{
+  margin: 0 auto;
+}
+div.leftcolumn2{
+  margin: 0 auto;
+}	
+div.mainpage2{
   overflow:auto;
 }
 }
