@@ -12,6 +12,7 @@ title: Publications
 3. Fei Shen, George Z. Voyiadjis, Weiping Hu, Qingchun Meng. Analysis on the fatigue damage evolution of notched specimens with consideration of cyclic plasticity. *Fatigue Fracture of Engineering Materials Structures*, 2015, 38: 1194-1208. [pdf][3]
 4. Fei Shen, Weiping Hu, Qingchun Meng, Miao Zhang. A new damage mechanics based approach to fatigue life prediction and its engineering application. *Acta Mechanica Solida Sinica*, 2015, 28(5): 510-520. [pdf][4]
 5. Fei Shen, Weiping Hu, Qingchun Meng. New approach based on continuum damage mechanics with simple parameters identification to fretting fatigue life prediction. *Applied Mathematics and Mechanics*, 2015, 36(12): 1539-1554. [pdf][5]
+6. Fei Shen, Weiping Hu, Qingchun Meng. A non-local approach based on the hypothesis of damage dissipation potential equivalence to the effect of stress gradient in fretting fatigue. *International Journal of Fatigue*, 2016, 90: 125-138. [pdf][6]
 
 ## Conference paper
 
@@ -22,3 +23,4 @@ title: Publications
 [3]: {{ site.baseurl }}/file/Paper 3.pdf 
 [4]: {{ site.baseurl }}/file/Paper 4.pdf
 [5]: {{ site.baseurl }}/file/Paper 5.pdf 
+[6]: {{ site.baseurl }}/file/Paper 6.pdf 
