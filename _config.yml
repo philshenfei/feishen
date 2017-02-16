@@ -91,9 +91,9 @@ var_your_message: Your message
 ##################
 
 # You don't have to change these.
-# highlighter: pygments
+# highlighter: pygments or rouge
 exclude: [vendor]
-highlighter: rouge
+highlighter: pygments
 kramdown:
   input: GFM
 paginate_path: "/page-:num/"
