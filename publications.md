@@ -7,12 +7,32 @@ title: Publications
 
 ## Journal paper
 
-1. Fei Shen, Weiping Hu, Qingchun Meng. A damage mechanics approach to fretting fatigue life prediction with consideration of elastic–plastic damage model and wear. *Tribology International*, 2015, 82: 176-190. [pdf][1]
-2. Fei Shen, Weiping Hu, George Z. Voyiadjis, Qingchun Meng. Effects of fatigue damage and wear on fretting fatigue under partial slip condition. *Wear*, 2015, 338-339: 394-405. [pdf][2]
-3. Fei Shen, George Z. Voyiadjis, Weiping Hu, Qingchun Meng. Analysis on the fatigue damage evolution of notched specimens with consideration of cyclic plasticity. *Fatigue Fracture of Engineering Materials Structures*, 2015, 38: 1194-1208. [pdf][3]
-4. Fei Shen, Weiping Hu, Qingchun Meng, Miao Zhang. A new damage mechanics based approach to fatigue life prediction and its engineering application. *Acta Mechanica Solida Sinica*, 2015, 28(5): 510-520. [pdf][4]
-5. Fei Shen, Weiping Hu, Qingchun Meng. New approach based on continuum damage mechanics with simple parameters identification to fretting fatigue life prediction. *Applied Mathematics and Mechanics*, 2015, 36(12): 1539-1554. [pdf][5]
-6. Fei Shen, Weiping Hu, Qingchun Meng. A non-local approach based on the hypothesis of damage dissipation potential equivalence to the effect of stress gradient in fretting fatigue. *International Journal of Fatigue*, 2016, 90: 125-138. [pdf][6]
+### 2017
+
+13. Yuan, S., Shen, F., Bai, J., Chua, C. K., Wei, J., & Zhou, K. (2017). 3D soft auxetic lattice structures fabricated by selective laser sintering: TPU powder evaluation and process optimization. Materials & Design, 120, 317–327.
+12. Zhan, Z., Hu, W., Shen, F., Meng, Q., Pu, J., & Guan, Z. (2017). Fatigue life calculation for a specimen with an impact pit considering impact damage, residual stress relaxation and elastic-plastic fatigue damage. International Journal of Fatigue, 96, 208-223.
+
+### 2016
+
+11. Lin, P., Shen, F., Yeo, A., Liu, B., Xue, M., Xu, H., & Zhou, K. (2016). Characterization of interfacial delamination in multi-layered integrated circuit packaging. Surface and Coatings Technology.
+10. Shen, F., Yuan, S., Guo, Y., Zhao, B., Bai, J., Qwamizadeh, M., ... & Zhou, K. (2016). Energy Absorption of Thermoplastic Polyurethane Lattice Structures via 3D Printing: Modeling and Prediction. International Journal of Applied Mechanics, 1640006.
+9. Hu, P., Meng, Q., Hu, W., Shen, F., Zhan, Z., & Sun, L. (2016). A continuum damage mechanics approach coupled with an improved pit evolution model for the corrosion fatigue of aluminum alloy. Corrosion Science, 113, 78-90.
+8. Sun, Y., Voyiadjis, G. Z., Hu, W., Shen, F., & Meng, Q. (2016). Fatigue and fretting fatigue life prediction of double-lap bolted joints using continuum damage mechanics-based approach. International Journal of Damage Mechanics, 1056789516641481.
+7. Sun, Y., Hu, W., Shen, F., Meng, Q., & Xu, Y. (2016). Numerical simulations of the fatigue damage evolution at a fastener hole treated by cold expansion or with interference fit pin. International Journal of Mechanical Sciences, 107, 188-200.
+6. Shen, F., Hu, W., & Meng, Q. (2016). A non-local approach based on the hypothesis of damage dissipation potential equivalence to the effect of stress gradient in fretting fatigue. International Journal of Fatigue, 90, 125-138. [pdf][6]
+
+### 2015
+
+5. Shen, F., Hu, W., & Meng, Q. (2015). New approach based on continuum damage mechanics with simple parameter identification to fretting fatigue life prediction. Applied Mathematics and Mechanics, 36(12), 1539-1554. [pdf][5]
+4. Shen, F., Hu, W., Meng, Q., & Zhang, M. (2015). A new damage mechanics based approach to fatigue life prediction and its engineering application. Acta Mechanica Solida Sinica, 28(5), 510-520. [pdf][4]
+3. Shen, F., Voyiadjis, G. Z., Hu, W., & Meng, Q. (2015). Analysis on the fatigue damage evolution of notched specimens with consideration of cyclic plasticity. Fatigue & Fracture of Engineering Materials & Structures, 38(10), 1194-1208. [pdf][3]
+2. Shen, F., Hu, W., Voyiadjis, G. Z., & Meng, Q. (2015). Effects of fatigue damage and wear on fretting fatigue under partial slip condition. Wear, 338, 394-405. [pdf][2]
+1. Shen, F., Hu, W., & Meng, Q. (2015). A damage mechanics approach to fretting fatigue life prediction with consideration of elastic–plastic damage model and wear. Tribology International, 82, 176-190. [pdf][1]
+
+
+
+
+
 
 ## Conference paper
 
