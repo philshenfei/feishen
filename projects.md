@@ -7,31 +7,31 @@ title: Projects
 
 ## Research projects
 
-* Fretting fatigue crack initiation behavior using damage mechanics approach &nbsp; 6/2012~7/2015
+* Fretting fatigue crack initiation behavior using damage mechanics approach &nbsp; 06/2012 ~ 07/2015
   - Finite element simulation of fretting contact
   - Study of the effect of wear on stress and fretting fatigue life
   - Fretting fatigue life prediction by combining the damage coupled elastic-plastic constitutive model, damage evolution model and wear model
   - Finite element implementation of the approach using user subroutines in ABAQUS
   - Analysis of the effect of stress gradient on fretting fatigue life
   
-* Fatigue life prediction of notched specimen &nbsp; 8/2013~12/2014
+* Fatigue life prediction of notched specimen &nbsp; 08/2013 ~ 12/2014
   - Stress strain response at the notch tip using damage coupled elastic-plastic constitutive model
   - Fatigue damage accumulation by adopting two kinds of damage evolution model
   - Finite element implementation of fatigue life prediction
 
-* Fatigue life prediction of riveted lap joint in aircraft structures &nbsp; 8/2011~6/2012
+* Fatigue life prediction of riveted lap joint in aircraft structures &nbsp; 08/2011 ~ 06/2012
   - Simulation of stress at the hole edge
   - Fatigue damage evolution model and parameters identification
   - Numerical algorithm of fatigue life prediction using APDL in ANSYS
 
-* Statics and dynamics simulation of satellite components &nbsp; 6/2013~9/2013
+* Statics and dynamics simulation of satellite components &nbsp; 06/2013 ~ 09/2013
   - Simplify the finite element model of satellite components
   - Statics and dynamics simulation including under the shock and random vibration in ANSYS
   
-* Analysis on the wire support system in the wind tunnel &nbsp; 2/2011~6/2011
+* Analysis on the wire support system in the wind tunnel &nbsp; 02/2011 ~ 06/2011
   - Modeling of wire support system based on the principle of force equilibrium and calculate the pre-tightening force of each wire
   - Validation of the results by finite element simulation in ANSYS
   
-* Numerical simulation on the suspension bridge &nbsp; 10/2010~12/2010
+* Numerical simulation on the suspension bridge &nbsp; 10/2010 ~ 12/2010
   - Finite element modeling of the suspension bridge in ANSYS and determine the pre-strain of cables
   - Modal analysis of the suspension bridge to calculate the resonant frequency
