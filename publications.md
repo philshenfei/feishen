@@ -9,16 +9,16 @@ title: Publications
 
 ### 2017
 
-13. Yuan, S., Shen, F., Bai, J., Chua, C. K., Wei, J., & Zhou, K. (2017). 3D soft auxetic lattice structures fabricated by selective laser sintering: TPU powder evaluation and process optimization. Materials & Design, 120, 317–327.
-12. Zhan, Z., Hu, W., Shen, F., Meng, Q., Pu, J., & Guan, Z. (2017). Fatigue life calculation for a specimen with an impact pit considering impact damage, residual stress relaxation and elastic-plastic fatigue damage. International Journal of Fatigue, 96, 208-223.
+13. Yuan, S., Shen, F., Bai, J., Chua, C. K., Wei, J., & Zhou, K. (2017). 3D soft auxetic lattice structures fabricated by selective laser sintering: TPU powder evaluation and process optimization. Materials & Design, 120, 317–327. [pdf][13]
+12. Zhan, Z., Hu, W., Shen, F., Meng, Q., Pu, J., & Guan, Z. (2017). Fatigue life calculation for a specimen with an impact pit considering impact damage, residual stress relaxation and elastic-plastic fatigue damage. International Journal of Fatigue, 96, 208-223. [pdf][12]
 
 ### 2016
 
-11. Lin, P., Shen, F., Yeo, A., Liu, B., Xue, M., Xu, H., & Zhou, K. (2016). Characterization of interfacial delamination in multi-layered integrated circuit packaging. Surface and Coatings Technology.
-10. Shen, F., Yuan, S., Guo, Y., Zhao, B., Bai, J., Qwamizadeh, M., ... & Zhou, K. (2016). Energy Absorption of Thermoplastic Polyurethane Lattice Structures via 3D Printing: Modeling and Prediction. International Journal of Applied Mechanics, 1640006.
-9. Hu, P., Meng, Q., Hu, W., Shen, F., Zhan, Z., & Sun, L. (2016). A continuum damage mechanics approach coupled with an improved pit evolution model for the corrosion fatigue of aluminum alloy. Corrosion Science, 113, 78-90.
-8. Sun, Y., Voyiadjis, G. Z., Hu, W., Shen, F., & Meng, Q. (2016). Fatigue and fretting fatigue life prediction of double-lap bolted joints using continuum damage mechanics-based approach. International Journal of Damage Mechanics, 1056789516641481.
-7. Sun, Y., Hu, W., Shen, F., Meng, Q., & Xu, Y. (2016). Numerical simulations of the fatigue damage evolution at a fastener hole treated by cold expansion or with interference fit pin. International Journal of Mechanical Sciences, 107, 188-200.
+11. Lin, P., Shen, F., Yeo, A., Liu, B., Xue, M., Xu, H., & Zhou, K. (2016). Characterization of interfacial delamination in multi-layered integrated circuit packaging. Surface and Coatings Technology. [pdf][11]
+10. Shen, F., Yuan, S., Guo, Y., Zhao, B., Bai, J., Qwamizadeh, M., ... & Zhou, K. (2016). Energy Absorption of Thermoplastic Polyurethane Lattice Structures via 3D Printing: Modeling and Prediction. International Journal of Applied Mechanics, 1640006. [pdf][10]
+9. Hu, P., Meng, Q., Hu, W., Shen, F., Zhan, Z., & Sun, L. (2016). A continuum damage mechanics approach coupled with an improved pit evolution model for the corrosion fatigue of aluminum alloy. Corrosion Science, 113, 78-90. [pdf][9]
+8. Sun, Y., Voyiadjis, G. Z., Hu, W., Shen, F., & Meng, Q. (2016). Fatigue and fretting fatigue life prediction of double-lap bolted joints using continuum damage mechanics-based approach. International Journal of Damage Mechanics, 1056789516641481. [pdf][8]
+7. Sun, Y., Hu, W., Shen, F., Meng, Q., & Xu, Y. (2016). Numerical simulations of the fatigue damage evolution at a fastener hole treated by cold expansion or with interference fit pin. International Journal of Mechanical Sciences, 107, 188-200. [pdf][7]
 6. Shen, F., Hu, W., & Meng, Q. (2016). A non-local approach based on the hypothesis of damage dissipation potential equivalence to the effect of stress gradient in fretting fatigue. International Journal of Fatigue, 90, 125-138. [pdf][6]
 
 ### 2015
@@ -44,3 +44,10 @@ title: Publications
 [4]: {{ site.baseurl }}/file/Paper 4.pdf
 [5]: {{ site.baseurl }}/file/Paper 5.pdf 
 [6]: {{ site.baseurl }}/file/Paper 6.pdf 
+[7]: {{ site.baseurl }}/file/Paper 7.pdf 
+[8]: {{ site.baseurl }}/file/Paper 8.pdf 
+[9]: {{ site.baseurl }}/file/Paper 9.pdf 
+[10]: {{ site.baseurl }}/file/Paper 10.pdf 
+[11]: {{ site.baseurl }}/file/Paper 11.pdf 
+[12]: {{ site.baseurl }}/file/Paper 12.pdf 
+[13]: {{ site.baseurl }}/file/Paper 13.pdf 
