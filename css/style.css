@@ -23,7 +23,7 @@ div.wrap, #comments{box-shadow:0 1px 7px #bcbcbc;}
 .wrap h1,.wrap h2,.wrap h3,.wrap h4,.wrap h5,.wrap h6{border:0!important;}
 .wrap h1{font-size:170%!important;padding-top:.5em!important;margin-top:1.5em!important;} /*border-top:4px solid #aaa!important;*/
 .wrap h1:first-child{margin-top:0!important;padding-top:.25em!important;border-top:none!important;}
-.wrap h2{font-size:150%!important;margin-top:1.5em!important;border-top:2px solid #e0e0e0!important;padding-top:.5em!important;}/*border-top:4px solid #e0e0e0!important*/
+.wrap h2{font-size:150%!important;margin-top:1.5em!important;border-top:2px solid #e0e0e0!important;padding-top:.5em!important;}
 .wrap h3{margin-top:1em!important;}
 .wrap p{margin:1em 0!important;line-height:1.5em!important;}
 .wrap a.absent{color:#a00;}
