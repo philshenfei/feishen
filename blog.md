@@ -3,7 +3,7 @@ layout: default
 title: Blogs
 ---
 
-# My Blogs
+# Blogs
 
 {% for post in site.posts %}
 
