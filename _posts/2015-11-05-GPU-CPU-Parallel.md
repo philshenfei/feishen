@@ -10,6 +10,11 @@ title: CPU 并行加速和 GPU 并行加速初研究
 
 采用 CPU 来绘制 Julia 集，需要使用循环 for 语句。绘制的 Julia 集的矩阵尺寸为 1000×1000，而且由于绘制一个像素点需要 4 个字节（分别代表 RGBA）。所以在此矩阵在内存中所占空间为 1000×1000×4Byte～4MB。每一个像素点的值由 Julia 的检测函数计算得到，检测函数根据像素点的位置判断该像素点是否属于 Julia 集，如果是得到的值为 1，否则为 0。
 
+<div class="figure">
+  <img src="{{ site.baseurl }}/img/Julia.jpg"> 
+  <small>图1 Julia集.</small>
+</div>
+
 最具体的实现中，申请矩阵的内存，然后使用 2 次 for 循环来对矩阵进行复制。在每次 for 循环前加上 `#pragma omp parallel for`，即可实现简单的 CPU 并行加速。然后采用 OpenGL 来绘制位图。
 
 {% highlight css %}
