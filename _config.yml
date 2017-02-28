@@ -34,10 +34,10 @@ lang: en
 ##############
 
 
-footer-text: © 2016 Fei Shen. Published with <a href="https://pages.github.com/">GitHub Pages</a>, powered by <a href="http://jekyllrb.com">Jekyll</a>.
+footer-text: © 2017 Fei Shen. Published with <a href="https://pages.github.com/">GitHub Pages</a>, Powered by <a href="http://jekyllrb.com">Jekyll</a>.
 
 # Preferably 64px in height. Leave empty = disable.
-logo-image:
+logo-image: 
 
 # Color used throughout the theme. Format: R, G, B.
 theme-color: 0, 240, 255 # Original: 0, 240, 255

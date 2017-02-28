@@ -1,10 +1,12 @@
 <header>
+  <tit>
   <a href="{{ site.baseurl }}/" class="website-title">
     {% if site.logo-image %}
-      <img alt="{{ site.name }}" src="{{ site.baseurl }}{{ site.logo-image }}">
+      <img alt="{{ site.name }}" src="{{ site.baseurl }}/{{ site.logo-image }}">
     {% else %}
       {{ site.name }}
     {% endif %}
   </a>
+  </tit>
   {% include navigation.html %}
 </header>

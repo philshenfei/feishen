@@ -64,6 +64,7 @@ div.wrap, #comments{box-shadow:0 1px 7px #bcbcbc;}
 /*---Add---*/
 
 .wrap header {
+  height: 40px;
   margin-top: 20px;
   margin-bottom: 20px;
   position: relative; 
@@ -80,12 +81,19 @@ div.wrap, #comments{box-shadow:0 1px 7px #bcbcbc;}
   background-image: none;
   text-decoration: none !important;
   color: #000;
+  left: 0;
 }
 .wrap header nav { 
   position: absolute;
   height: 40px;
   top: 0;
   right: 0;
+}
+.wrap header tit { 
+  position: absolute;
+  height: 40px;
+  top: 0;
+  left: 0;
 }
 .wrap header nav a {
   display: block;
@@ -150,29 +158,6 @@ div.video {
   margin-top: -10px;
   margin-left: 10px;
 }
-
-@media (max-width: 620px) {
-.wrap header {
-  display: block;
-  padding: 5px;
-}
-.wrap header a.website-title {
-  text-align: center;
-  vertical-align: baseline;
-}
-.wrap header nav { 
-  display: block;
-  position: relative;
-  height: auto;
-}
-.wrap header nav a {
-  display: block;
-  text-align: center;
-  position: relative;
-  overflow: hidden;
-  padding: 5px 0; 
-}
-}
 .wrap img {
 	display: block;
 	max-width:100%;
@@ -185,6 +170,38 @@ div.figure {
   text-align: center;
 }
 */
+
+@media (max-width: 620px) {
+.wrap header {
+  height: auto;
+  display: block;
+  padding: 5px;
+}
+.wrap header a.website-title {
+  text-align: center;
+  vertical-align: baseline;
+}
+.wrap header nav { 
+  display: block;
+  position: relative;
+  height: auto;
+}
+.wrap header tit { 
+  text-align: center;
+  position: relative;
+  height: 40px;
+  top: 0;
+  left: 0;
+}
+.wrap header nav a {
+  display: block;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  padding: 5px 0; 
+}
+}
+
 @media (min-width: 621px) {
 div.rightcolumn{
 	float:right;
