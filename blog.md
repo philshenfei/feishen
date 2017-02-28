@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Blogs
+title: Blog
 ---
 
-# Blogs
+# Blog
 
 {% for post in site.posts %}
 
