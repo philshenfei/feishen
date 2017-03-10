@@ -7,6 +7,10 @@ title: Projects
 
 ## Research projects
 
+* Mechanical behavior of 3D printed light-weight polymeric structures by SLS 03/2016 ~ present
+  - Stress-strain behavior of polymeric materials
+  - Investigation on the energy absorption capacity of 3D printed structures  
+
 * Fretting fatigue crack initiation behavior using damage mechanics approach &nbsp; 06/2012 ~ 07/2015
   - Finite element simulation of fretting contact
   - Study of the effect of wear on stress and fretting fatigue life

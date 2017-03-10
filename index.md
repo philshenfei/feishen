@@ -17,7 +17,5 @@ layout: default
 
 <p>Now I am invloved in the project of additive manufacturing (3D printing). The selective laser sintering (SLS) technique  is used to produce the light-weight strucutres with high capacity of energy absorption directly through polymer powders (such as TPU, PA12, etc.) in our group. I mainly work on the simulation of mechanical behavior of these structures under monotonic and cyclic compression.</p>
 
-<p>沈飞，86年生人，北航固体力学专业毕业。父母给我起名时肯定是不知道这名与沈阳的航空单位沈飞重名了，大学期间在机缘巧合之下进入北航航空学院读研究生，我想这应该是和航空有缘吧。博士期间有段时间比较无聊，想随便写写但又找不到称心的博客模板，于是就搭建了这个网站。</p> 
-
 </div>
 </div>
