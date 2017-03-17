@@ -1,5 +1,5 @@
 ---
-title: 读书笔记1 — 连续介质力学
+title: 读书笔记 1 - 连续介质力学
 cover-image: belytschko.jpg
 ---
 
