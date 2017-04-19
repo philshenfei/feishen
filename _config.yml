@@ -63,7 +63,7 @@ date_format: "%b %-d, %Y"
 display-next-prev-post: true
 
 # Leave empty if you don't want comments on post pages.
-disqus-shortname:  
+disqus-shortname: philshenfei  
 
 
 #####################
@@ -106,8 +106,3 @@ defaults:
     values:
       layout: "post"
       excerpt_separator: "<!--more-->"
-
-comments:
-    provider: duoshuo
-    duoshuo: 
-      short_name: fshen
