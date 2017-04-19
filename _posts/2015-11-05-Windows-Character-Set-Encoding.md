@@ -14,7 +14,7 @@ Windows 环境下文本文件的字符集和编码是比较特殊的，因此在
 
 <div class="figure"> 
  <img src="{{ site.baseurl }}/img/encoding.jpg">
-<small><capfigure>图 1 UTF-8 编码</capfigure></small>
+<small>UTF-8 编码</small>
 </div>
 
 对于 Windows，其内核采用 UTF-16 编码，但 Windows 采用了区域（locale）来决定具体的编码，也即是 Windows 下所谓的 ANSI，例如简体中文的 Windows 采用的是 GBK。

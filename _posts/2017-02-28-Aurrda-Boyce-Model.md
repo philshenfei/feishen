@@ -13,7 +13,7 @@ AB 模型适用于多种高分子材料，尤其是存在应变软化的材料�
 
 <div class="figure">
   <img src="{{ site.baseurl }}/img/AB-1.jpg"> 
-  <small>图1 PMMA 材料在两种压缩变形下的应力应变曲线.</small>
+  <small>PMMA 材料在两种压缩变形下的应力应变曲线</small>
 </div>
 
 ## AB 本构模型
@@ -22,7 +22,7 @@ AB 模型适用于多种高分子材料，尤其是存在应变软化的材料�
 
 <div class="figure">
   <img src="{{ site.baseurl }}/img/ABmodel.jpg"> 
-  <small>图2 AB 本构模型.</small>
+  <small>AB 本构模型</small>
 </div>
 
 <div class="formula">

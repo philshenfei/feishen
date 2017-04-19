@@ -36,21 +36,21 @@ D=F^{-T}\dot{}\dot{E}\dot{}F^{-1}
 
 <div class="figure">
   <img src="{{ site.baseurl }}/img/stress.jpg">
-  <small>图1 应力转换关系.</small>
+  <small>应力转换关系</small>
 </div>
 
 * 在两种描述下的守恒方程，包括质量守恒、线动量守恒、角动量守恒以及能量守恒定律，如图2所示。其中，Cauchy 应力 $\sigma$ 和变形率 $D$、PK2 应力 $S$和 Green 应变率 $\dot{E}$、名义应力 $P$ 和变形梯度率 $\dot{F}$ 是功共轭的。
 
 <div class="figure">
   <img src="{{ site.baseurl }}/img/conservation-equations.jpg">
-  <small>图2 守恒方程.</small>
+  <small>守恒方程</small>
 </div>
 
 * 变形梯度的极分解以及框架不变性。任意变形梯度均可以表示为一个旋转矩阵和一个对称张量的乘积，即 $F=R\dot{}U=V\dot{}R$，$U=(F^T\dot{}F)^{1/2}$。关于框架不变性，又称之为客观率，我的理解是由于 Euler 描述中的张量在不同的参考系中需要进行坐标变换，而 Lagrange 描述下的张量不需要进行坐标变换。因而，Euler 型张量的材料时间导数不满足坐标转换条件，即不是一个客观性张量。但是，对于本构模型，其基本原理包含了客观性原理。所以，对于 Euler 型张量的材料时间导数需要考虑坐标的旋转。三种客观率如图3所示，本构模型中的应力率一般为 Cauchy 应力的各种客观率。对于旋转应力和 PK2 应力，由于两者考虑到了材料的转动，所以可以直接用于描述本构模型。
 
 <div class="figure">
   <img src="{{ site.baseurl }}/img/objective-rates.jpg">
-  <small>图3 客观率.</small>
+  <small>客观率</small>
 </div>
 
 <div class="formula">

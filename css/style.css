@@ -25,7 +25,7 @@ div.wrap, #comments{box-shadow:0 1px 7px #bcbcbc;}
 .wrap h1:first-child{margin-top:0!important;padding-top:.25em!important;border-top:none!important;}
 .wrap h2{font-size:150%!important;margin-top:1.5em!important;border-top:2px solid #e0e0e0!important;padding-top:.5em!important;}
 .wrap h3{margin-top:1em!important;}
-.wrap p{margin:1em 0!important;line-height:1.5em!important;}
+.wrap p{margin:1em 0!important;line-height:1.8em!important;}
 .wrap a.absent{color:#a00;}
 .wrap ul,#wiki-form .content-body ul{margin:1em 0 1em 0em!important;}
 .wrap ol,#wiki-form .content-body ol{margin:1em 0 1em 0em!important;}
@@ -162,14 +162,15 @@ div.video {
 	display: block;
 	max-width:100%;
 }
-/* 图片和图题居中
 .wrap img {
 	margin: 0 auto;
+	margin-bottom: 8px;
 }
-div.figure {
+div.figure {  
   text-align: center;
+  color:#666!important;
 }
-*/
+
 
 @media (max-width: 620px) {
 .wrap header {

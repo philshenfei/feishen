@@ -12,7 +12,7 @@ title: CPU 并行加速和 GPU 并行加速初研究
 
 <div class="figure">
   <img src="{{ site.baseurl }}/img/Julia.jpg"> 
-  <small>图1 Julia集.</small>
+  <small>Julia集</small>
 </div>
 
 最具体的实现中，申请矩阵的内存，然后使用 2 次 for 循环来对矩阵进行复制。在每次 for 循环前加上 `#pragma omp parallel for`，即可实现简单的 CPU 并行加速。然后采用 OpenGL 来绘制位图。
@@ -33,8 +33,6 @@ nvcc –Xcomplier “\wd 4819” file –o file
 ## 结果分析
 
 分别对不同的 Julia 规模进行计算，计算结果见表 1。GPU 的加速性能在较大规模时比 CPU 加速要强。当 Julia 规模较小时，由于存在显存和内存之间的数据传输，使得 GPU 并行计算时间比 CPU 并行计算时间要长。
-
-<small>表 1 计算结果</small>
 
 |Julia 规模|CPU 不并行计算时间 /s|CPU 并行计算时间 /s|GPU 并行计算时间 /s|
 | :------------: |:---------------:|:-----:|:-----:|

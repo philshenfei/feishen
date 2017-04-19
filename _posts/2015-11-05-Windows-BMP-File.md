@@ -15,7 +15,7 @@ BMP 文件由四部分组成：
 
 <div class="figure">
   <img src="{{ site.baseurl }}/img/lotus.bmp"> 
-  <small><capfigure>图 1 lotus.bmp</capfigure></small>
+  <small><capfigure>lotus.bmp</capfigure></small>
 </div>
 
 首先是位图文件头，其数据结构定义为：
@@ -34,7 +34,7 @@ DWORD bfOffBits;//位图数据的起始位置，以相对于位图文件头的�
 
 <div class="figure">
   <img src="{{ site.baseurl }}/img/bmp-part.jpg"> 
-  <small><capfigure>图 2 lotus.bmp 文件的十六进制形式（部分）</capfigure></small>
+  <small><capfigure>lotus.bmp 文件的十六进制形式（部分）</capfigure></small>
 </div>
 
 位图信息头的数据结构为：
