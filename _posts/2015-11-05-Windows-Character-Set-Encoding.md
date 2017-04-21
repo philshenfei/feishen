@@ -24,7 +24,7 @@ Windows 环境下文本文件的字符集和编码是比较特殊的，因此在
 * ANSI，GBK 或者是 936。
 * UTF-16 LE，以 0xFF FE 开始。
 * UTF-16 BE，以 0xFE FF 开始。
-* TF-8，需要注意的是 Windows 下的 UTF-8 编码会有 BOM，即在文件的开始有 0xEF BB BF。这一点容易出现问题，一般的 UTF-8 编码是没有 BOM 的。
+* UTF-8，需要注意的是 Windows 下的 UTF-8 编码会有 BOM，即在文件的开始有 0xEF BB BF。这一点容易出现问题，一般的 UTF-8 编码是没有 BOM 的。
 
 另外需要注意的是：
 
