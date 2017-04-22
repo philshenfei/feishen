@@ -31,7 +31,25 @@ div.wrap, #comments{box-shadow:0 1px 7px #bcbcbc;}
 .wrap ol,#wiki-form .content-body ol{margin:1em 0 1em 0em!important;}
 .wrap ul li,#wiki-form .content-body ul li,.wrap ol li,#wiki-form .content-body ol li{margin-top:.5em;margin-bottom:.5em;line-height:1.8em!important;}
 .wrap ul ul,.wrap ul ol,.wrap ol ol,.wrap ol ul,#wiki-form .content-body ul ul,#wiki-form .content-body ul ol,#wiki-form .content-body ol ol,#wiki-form .content-body ol ul{margin-top:0!important;margin-bottom:0!important;}
+/*
 .wrap blockquote{margin:1em 0!important;border-left:5px solid #666!important;padding-left:.6em!important;color:#666!important;font-style:italic;}
+*/
+blockquote {
+    position: relative;
+    margin:1em 0!important;
+    padding-left:2em!important;
+    color:#666!important;font-style:italic;
+}
+blockquote:before {
+    position: absolute;
+    font-size: 4em;
+    line-height: 1;
+    top: -16px;
+    left: -0px;
+    content: "\201C";
+    color:#666!important;font-style:italic;
+}
+
 .wrap dt{font-weight:bold!important;margin-left:1em!important;}
 .wrap dd{margin-left:2em!important;margin-bottom:1em!important;}
 .wrap table{margin:1em 0!important;}
