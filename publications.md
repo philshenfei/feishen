@@ -7,6 +7,10 @@ title: Publications
 
 ## Journal paper
 
+### 2018
+
+18. Shen, F., Yuan, S., Chua, C. K., & Zhou, K. (2018). Development of process efficiency maps for selective laser sintering of polymeric composite powders: Modeling and experimental testing. Journal of Materials Processing Technology, 254, 52-59. [pdf][18] 
+
 ### 2017
 
 17. Shen, F., Zhao, B., Li, L., Chua, C. K., & Zhou, K. (2017). Fatigue damage evolution and lifetime prediction of welded joints with the consideration of residual stresses and porosity. International Journal of Fatigue, 103, 272-279. [pdf][17]
@@ -33,11 +37,6 @@ title: Publications
 2. Shen, F., Hu, W., Voyiadjis, G. Z., & Meng, Q. (2015). Effects of fatigue damage and wear on fretting fatigue under partial slip condition. Wear, 338, 394-405. [pdf][2]
 1. Shen, F., Hu, W., & Meng, Q. (2015). A damage mechanics approach to fretting fatigue life prediction with consideration of elastic–plastic damage model and wear. Tribology International, 82, 176-190. [pdf][1]
 
-
-
-
-
-
 ## Conference paper
 
 1. Fei Shen , Miao Zhang, Weiping Hu, Qingchun Meng. Finite element analysis of large span suspension bridge. Proceedings of the fourth international conference on modelling and simulation, Phuket, Thailand, April 25-27, 2011.  
@@ -59,3 +58,4 @@ title: Publications
 [15]: {{ site.baseurl }}/file/Paper 15.pdf
 [16]: {{ site.baseurl }}/file/Paper 16.pdf
 [17]: {{ site.baseurl }}/file/Paper 17.pdf
+[18]: {{ site.baseurl }}/file/Paper 18.pdf
