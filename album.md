@@ -6,6 +6,17 @@ title: Album
 # Album
 
 <div class="figure">
+  <img src="{{ site.baseurl }}/img/album/2017-03-01.jpg"> <br />  
+  <img src="{{ site.baseurl }}/img/album/2017-03-01-2.jpg"> <br />
+  <img src="{{ site.baseurl }}/img/album/2017-03-01-3.jpg"> <br />
+  <img src="{{ site.baseurl }}/img/album/2017-03-01-4.jpg"> <br />
+  <img src="{{ site.baseurl }}/img/album/2017-03-01-5.jpg"> <br />
+  <img src="{{ site.baseurl }}/img/album/2017-03-01-6.jpg"> <br />
+  <img src="{{ site.baseurl }}/img/album/2017-03-01-7.jpg">   
+</div>
+<small>▲ 2017/03/01 @NTU随拍</small>
+
+<div class="figure">
   <img src="{{ site.baseurl }}/img/album/2017-01-18.jpg"> <br />  
   <img src="{{ site.baseurl }}/img/album/2017-01-18-2.jpg"> <br />
   <img src="{{ site.baseurl }}/img/album/2017-01-18-3.jpg"> <br />
@@ -16,7 +27,11 @@ title: Album
 
 <div class="figure">
   <img src="{{ site.baseurl }}/img/album/2016-12-10.jpg"> <br />  
-  <img src="{{ site.baseurl }}/img/album/2016-12-10-2.jpg"> 
+  <img src="{{ site.baseurl }}/img/album/2016-12-10-2.jpg"> <br />
+  <img src="{{ site.baseurl }}/img/album/2016-12-10-3.jpg"> <br />
+  <img src="{{ site.baseurl }}/img/album/2016-12-10-4.jpg"> <br />
+  <img src="{{ site.baseurl }}/img/album/2016-12-10-5.jpg"> <br />
+  <img src="{{ site.baseurl }}/img/album/2016-12-10-6.jpg"> 
 </div>
 <small>▲ 2016/12/10 @新加坡海滨公园</small>
 
@@ -31,7 +46,8 @@ title: Album
   <img src="{{ site.baseurl }}/img/album/2016-11-13-2.jpg"> <br />
   <img src="{{ site.baseurl }}/img/album/2016-11-13-3.jpg"> <br />
   <img src="{{ site.baseurl }}/img/album/2016-11-13-4.jpg"> <br />
-  <img src="{{ site.baseurl }}/img/album/2016-11-13-5.jpg"> 
+  <img src="{{ site.baseurl }}/img/album/2016-11-13-5.jpg"> <br />
+  <img src="{{ site.baseurl }}/img/album/2016-11-13-6.jpg"> 
 </div>
 <small>▲ 2016/11/13 @新加坡植物园</small>
 
@@ -44,6 +60,11 @@ title: Album
 <small>▲ 2016/06/04 @印尼民丹岛</small>
 
 <div class="figure">
+  <img src="{{ site.baseurl }}/img/album/2016-05-01.jpg">
+</div>
+<small>▲ 2016/05/01 @麦里芝水库</small>
+
+<div class="figure">
   <img src="{{ site.baseurl }}/img/album/2016-03-14.jpg"> <br />  
   <img src="{{ site.baseurl }}/img/album/2016-03-14-2.jpg"> <br />
   <img src="{{ site.baseurl }}/img/album/2016-03-14-3.jpg"> <br />
@@ -54,6 +75,15 @@ title: Album
   <img src="{{ site.baseurl }}/img/album/2016-03-14-8.jpg"> 
 </div>
 <small>▲ 2016/03/14 @新加坡随拍</small>
+
+<div class="figure">
+  <img src="{{ site.baseurl }}/img/album/2016-02-02.jpg"> <br />  
+  <img src="{{ site.baseurl }}/img/album/2016-02-02-2.jpg"> <br />
+  <img src="{{ site.baseurl }}/img/album/2016-02-02-3.jpg"> <br />
+  <img src="{{ site.baseurl }}/img/album/2016-02-02-4.jpg"> <br />
+  <img src="{{ site.baseurl }}/img/album/2016-02-02-5.jpg">
+</div>
+<small>▲ 2016/02/02 @与友同游武汉黄鹤楼及植物园</small>
 
 <div class="figure">
 <a href="{{ site.baseurl }}/img/album/2016-01-14-big.jpg" target="_blank">
