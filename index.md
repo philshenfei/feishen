@@ -8,7 +8,7 @@ layout: default
 <div class="figure">
   <img src="{{ site.baseurl }}/img/me.jpg"> <br />
 </div>
-<a href="/file/Curriculum Vitae.pdf">Curriculum Vitae</a>
+<a href="/file/CV_Shen Fei.pdf">Curriculum Vitae</a>
 </div>
 
 <div class="rightcolumn">
