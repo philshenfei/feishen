@@ -30,8 +30,7 @@ title: Album
   <img src="{{ site.baseurl }}/img/album/2016-12-10-2.jpg"> <br />
   <img src="{{ site.baseurl }}/img/album/2016-12-10-3.jpg"> <br />
   <img src="{{ site.baseurl }}/img/album/2016-12-10-4.jpg"> <br />
-  <img src="{{ site.baseurl }}/img/album/2016-12-10-5.jpg"> <br />
-  <img src="{{ site.baseurl }}/img/album/2016-12-10-6.jpg"> 
+  <img src="{{ site.baseurl }}/img/album/2016-12-10-5.jpg"> 
 </div>
 <small>▲ 2016/12/10 @新加坡海滨公园</small>
 
