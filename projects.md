@@ -3,27 +3,26 @@ layout: default
 title: Projects
 ---
 
-# Projects
-
 ## Research projects
 
-* Mechanical behavior of 3D printed light-weight polymeric structures by SLS 03/2016 ~ present
-  - Stress-strain behavior of polymeric materials
-  - Investigation on the energy absorption capacity of 3D printed structures  
+* 3D printing of polymeric materials and their nanocomposites &nbsp; 03/2016 ~ present
+  - Process modeling of selective laser sintering
+  - Mechanical and thermal behaviors of polymeric materials and their nanocomposites
+  - Energy absorption of 3D printed light-weight structures  
 
-* Fretting fatigue crack initiation behavior using damage mechanics approach &nbsp; 06/2012 ~ 07/2015
+* Contunuum damage mechanics investigation of the fretting fatigue &nbsp; 06/2012 ~ 07/2015
   - Finite element simulation of fretting contact
   - Study of the effect of wear on stress and fretting fatigue life
   - Fretting fatigue life prediction by combining the damage coupled elastic-plastic constitutive model, damage evolution model and wear model
   - Finite element implementation of the approach using user subroutines in ABAQUS
   - Analysis of the effect of stress gradient on fretting fatigue life
   
-* Fatigue life prediction of notched specimen &nbsp; 08/2013 ~ 12/2014
+* Fatigue life prediction of notched specimens &nbsp; 08/2013 ~ 12/2014
   - Stress strain response at the notch tip using damage coupled elastic-plastic constitutive model
   - Fatigue damage accumulation by adopting two kinds of damage evolution model
   - Finite element implementation of fatigue life prediction
 
-* Fatigue life prediction of riveted lap joint in aircraft structures &nbsp; 08/2011 ~ 06/2012
+* Fatigue life prediction of riveted lap joints in aircraft structures &nbsp; 08/2011 ~ 06/2012
   - Simulation of stress at the hole edge
   - Fatigue damage evolution model and parameters identification
   - Numerical algorithm of fatigue life prediction using APDL in ANSYS

@@ -3,11 +3,11 @@ layout: default
 title: Experience
 ---
 
-# Experience
-
 ## Work
 
 * Research Fellow &nbsp; 03/2016 ~ present <br> School of Mechanical and Aerospace Engineering, Nanyang Technological University, Singapore 
+
+<hr>
 
 ## Education
 

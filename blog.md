@@ -3,8 +3,6 @@ layout: default
 title: Blog
 ---
 
-# Blog
-
 {% for post in site.posts %}
 
 <div class="mainpage2">
@@ -20,6 +18,7 @@ title: Blog
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
   {% if year != nyear %}
+  <hr>
   <h2>{{ post.date | date: '%Y' }}</h2>
   {% endif %}
   

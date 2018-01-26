@@ -3,8 +3,6 @@ layout: default
 title: Album
 ---
 
-# Album
-
 <div class="figure">
   <img src="{{ site.baseurl }}/img/album/2017-03-01.jpg"> <br />  
   <img src="{{ site.baseurl }}/img/album/2017-03-01-2.jpg"> <br />
