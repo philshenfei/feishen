@@ -4,15 +4,15 @@
 	{% include head.html %}
 </head>
 <body>
-	<div class="wrap">
 	{% include header.html %}
+	<div class="content">
 	{% if page.cover-image %}
 	<div class="cover-image-container">
 		<img alt="Cover image" src="{{ site.baseurl }}/img/covers/{{ page.cover-image }}">
 	</div>
 	{% endif %}
-	   	{{ content }}
-	  <script>
+	{{ content }}
+	<script>
 	    $("article").fitVids();
 	    $('article p').each(function(i){
 				if (($(this).find('img').length) && (!$.trim($(this).text()).length))  {
@@ -22,8 +22,8 @@
 					$(this).addClass('img-only-source');
 				}
 	  	});
-	  </script>
-	  {% include footer.html %}
+	</script>
 	</div>
+	{% include footer.html %}	
 </body>
 </html>

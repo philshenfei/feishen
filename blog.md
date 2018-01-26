@@ -13,7 +13,7 @@ title: Blog
 <h2>{{ post.date | date: '%Y' }}</h2>
 
 <div class="leftcolumn2">
-<h3>{{ post.date | date: '%b.' }}</h3> 
+<p><strong> {{ post.date | date: '%b.' }}</strong> </p> 
 </div>
 
 {% else %}
@@ -27,7 +27,7 @@ title: Blog
   {% capture nmonth %}{{ post.next.date | date: '%m' }}{% endcapture %}
   {% if month != nmonth %}
   <div class="leftcolumn2">
-  <h3>{{ post.date | date: '%b.' }}</h3> 
+  <p><strong> {{ post.date | date: '%b.' }}</strong> </p> 
   </div>
   {% endif %}
   

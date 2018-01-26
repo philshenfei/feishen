@@ -11,7 +11,10 @@ layout: default
  
 <h1>{{ page.title }}</h1>
 <small><em>{{ page.date | date: site.date_format }} • {{ read-time }}</em></small>
-	{{ content }}
+
+{{ content }}
+
+<!--	
 {% if site.display-author-post-page %}
   {% if page.author.name %}
     <small><em>{{ site.var_guest_post_by }}: {{ page.author.name }} {{ page.author.info }}</em></small>
@@ -21,6 +24,7 @@ layout: default
     {% endif %}
   {% endif %}
 {% endif %}
+-->
 
 {% if site.display-next-prev-post and page.previous.url or site.display-next-prev-post and page.next.url %}
 <div class="pagination clearfix">
