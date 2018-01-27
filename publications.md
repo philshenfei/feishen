@@ -3,7 +3,7 @@ layout: default
 title: Publications 
 ---
 
-## Journal paper
+## Journal papers
 
 ### 2018
 

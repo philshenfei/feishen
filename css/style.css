@@ -2,7 +2,7 @@
 
 body {
     max-width: 700px;
-    margin: 0 auto;
+    margin: 1em auto;
     font-size: 17px;
     line-height: 1.7em;
     font-family: Cambria, "Microsoft Yahei", sans-serif;
@@ -136,6 +136,7 @@ header nav a {
 /*header a:active {color:#10069f;}*/
 
 footer {
+  font-size: 16px;
   text-align: center;
   color: rgba({{ site.text-color }},1);
   /*border-top: 4px solid #cc0000;*/
@@ -216,57 +217,9 @@ div.mainpage2 {
 	margin-bottom: 18.224px;}
 
 
-@media (max-width: 620px) {
-.content header {
-  height: auto;
-  display: block;
-  padding: 5px;
-}
-.content header a.website-title {
-  text-align: center;
-  vertical-align: baseline;
-}
-.content header nav { 
-  display: block;
-  position: relative;
-  height: auto;
-}
-.content header tit { 
-  text-align: center;
-  position: relative;
-  height: 40px;
-  top: 0;
-  left: 0;
-}
-.content header nav a {
-  display: block;
-  text-align: center;
-  position: relative;
-  overflow: hidden;
-  padding: 5px 0; 
-}
-}
-
-@media (max-width: 620px) {
-div.rightcolumn{
-  margin: 0 auto;
-}
-div.leftcolumn{
-  margin: 0 auto;
-  width: 120px;
-}	
-div.mainpage{
-  overflow:auto;
-}
-div.rightcolumn2{
-  margin: 0 auto;
-}
-div.leftcolumn2{
-  margin: 0 auto;
-}	
-div.mainpage2{
-  overflow:auto;
-  margin-top: -18.224px;
-  margin-bottom: 18.224px;
+@media (max-width: 700px) {
+body {
+	margin-left: 17px;
+	margin-right: 17px;
 }
 }
