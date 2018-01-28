@@ -10,7 +10,7 @@ title: Publications
 * Shen, F., Yuan, S., Chua, C. K., & Zhou, K. (2018). Development of process efficiency maps for selective laser sintering of polymeric composite powders: Modeling and experimental testing. Journal of Materials Processing Technology, 254, 52-59. [pdf][18] 
 
 ### 2017
-
+* Li, F., Hu, W., Meng, Q., Zhan, Z., & Shen, F. (2017). A new damage-mechanics-based model for rolling contact fatigue analysis of cylindrical roller bearing. Tribology International, 120, 105–114. [pdf][19]
 * Shen, F., Zhao, B., Li, L., Chua, C. K., & Zhou, K. (2017). Fatigue damage evolution and lifetime prediction of welded joints with the consideration of residual stresses and porosity. International Journal of Fatigue, 103, 272-279. [pdf][17]
 * Zhan, Z., Meng, Q., Hu, W., Sun, Y., Shen, F., & Zhang, Y. (2017). Continuum damage mechanics based approach to study the effects of the scarf angle, surface friction and clamping force over the fatigue life of scarf bolted joints. International Journal of Fatigue, 102, 59-78. [pdf][16]
 * Bai, J., Yuan, S., Shen, F., Zhang, B., Chua, C. K., Zhou, K., & Wei, J. (2017). Toughening of polyamide 11 with carbon nanotubes for additive manufacturing. Virtual and Physical Prototyping,  12, 235-240. [pdf][15]
@@ -59,3 +59,4 @@ title: Publications
 [16]: {{ site.baseurl }}/file/Paper 16.pdf
 [17]: {{ site.baseurl }}/file/Paper 17.pdf
 [18]: {{ site.baseurl }}/file/Paper 18.pdf
+[19]: {{ site.baseurl }}/file/Paper 19.pdf
