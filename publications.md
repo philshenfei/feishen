@@ -7,7 +7,7 @@ title: Publications
 
 ### 2018
 
-* Li, F., Hu, W., Meng, Q., Zhan, Z., & Shen, F. (2018). A new damage-mechanics-based model for rolling contact fatigue analysis of cylindrical roller bearing. Tribology International, 120, 105–114. [pdf][19]
+* Li, F., Hu, W., Meng, Q., Zhan, Z., & **Shen, F.** (2018). A new damage-mechanics-based model for rolling contact fatigue analysis of cylindrical roller bearing. Tribology International, 120, 105–114. [pdf][19]
 * Shen, F., Yuan, S., Chua, C. K., & Zhou, K. (2018). Development of process efficiency maps for selective laser sintering of polymeric composite powders: Modeling and experimental testing. Journal of Materials Processing Technology, 254, 52-59. [pdf][18] 
 
 ### 2017
