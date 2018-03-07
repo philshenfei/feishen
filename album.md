@@ -4,6 +4,22 @@ title: Album
 ---
 
 <div class="figure">
+  <img src="{{ site.baseurl }}/img/album/2018-02-15.jpg">
+</div>
+<small>▲ 2018/02/15 @回家过年看到大伯做的龙舟龙头</small>
+
+<div class="figure">
+  <img src="{{ site.baseurl }}/img/album/2018-01-24.jpg"> <br />  
+  <img src="{{ site.baseurl }}/img/album/2018-01-24-2.jpg"> <br />
+  <img src="{{ site.baseurl }}/img/album/2018-01-24-3.jpg"> <br />
+  <img src="{{ site.baseurl }}/img/album/2018-01-24-4.jpg"> <br />
+  <img src="{{ site.baseurl }}/img/album/2018-01-24-5.jpg"> <br />
+  <img src="{{ site.baseurl }}/img/album/2018-01-24-6.jpg"> <br />
+  <img src="{{ site.baseurl }}/img/album/2018-01-24-7.jpg">   
+</div>
+<small>▲ 2017/03/01 @NTU随拍</small>
+
+<div class="figure">
   <img src="{{ site.baseurl }}/img/album/2017-03-01.jpg"> <br />  
   <img src="{{ site.baseurl }}/img/album/2017-03-01-2.jpg"> <br />
   <img src="{{ site.baseurl }}/img/album/2017-03-01-3.jpg"> <br />
