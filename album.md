@@ -17,7 +17,7 @@ title: Album
   <img src="{{ site.baseurl }}/img/album/2018-01-24-6.jpg"> <br />
   <img src="{{ site.baseurl }}/img/album/2018-01-24-7.jpg">   
 </div>
-<small>▲ 2017/03/01 @圣淘沙环球影城</small>
+<small>▲ 2018/01/24 @圣淘沙环球影城</small>
 
 <div class="figure">
   <img src="{{ site.baseurl }}/img/album/2017-03-01.jpg"> <br />  
