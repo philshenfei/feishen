@@ -40,6 +40,45 @@ u_y^{RefY}=0
 * 在对应的两个边界上例如left和right，以及bottom和top中，寻找距离最近的两个节点作为一对，设置边界条件。具体方法是采用双重循环，在left中任取一个节点M，然后遍历right中的所有节点，找到和节点M距离最近的节点，即为节点N，然后设置边界条件 $u_x^{left-M}-u_x^{right-N}-u_x^{RefX}=0$。bottom和top也采用类似操作；
 * 在load模块中设置两个参考点的位移约束。
 
+## 2D算例
+
+如下图所示的周期性结构承受垂直方向上的压缩位移载荷，可以采用两种方法来计算其结构变形，并且两者结果可以进行对比。
+
+<div class="figure">
+  <img src="{{ site.baseurl }}/img/Total.jpg">  
+  <small>2D周期性结构</small>
+</div>
+
+### 整体模型计算
+
+这种方法比较简单，在水平和垂直方向的应变如下两图所示：
+
+<div class="figure">
+  <img src="{{ site.baseurl }}/img/Total-LE11.jpg"> <br />
+  <img src="{{ site.baseurl }}/img/Total-LE22.jpg">
+  <small>整体结构的应变</small>
+</div>
+
+其中心的单元的变形如下图所示：
+
+<div class="figure">
+  <img src="{{ site.baseurl }}/img/Total-LE11-Center.jpg"> <br />
+  <img src="{{ site.baseurl }}/img/Total-LE22-Center.jpg">
+  <small>中心单元的应变</small>
+</div>
+
+### 周期边界模型计算
+
+采用周期边界模型进行计算，网格数减少，计算速度会变快，其应变结果如下图所示：
+
+<div class="figure">
+  <img src="{{ site.baseurl }}/img/PBC-LE11.jpg"> <br />
+  <img src="{{ site.baseurl }}/img/PBC-LE22.jpg">
+  <small>周期边界模型的应变</small>
+</div>
+
+通过对比可知，两种方法的计算结果很近似，从而验证了周期边界设置的正确性。
+
 以下是3D情况下周期边界条件设置的python代码：
 
 {% highlight css %}
