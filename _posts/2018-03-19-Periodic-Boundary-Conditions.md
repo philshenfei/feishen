@@ -10,34 +10,45 @@ cover-image:
   <small>周期性结构</small>
 </div>
 
-以上述2D结构为例具体介绍周期边界条件的设置。假设该结构在水平方向上（也即x方向）施加位移载荷，而在其他两个方向没有载荷。把中间的一块区域提取出来作为结构的RVE，该单元的四个边界上需要施加相应的边界条件：
+以上述2D结构为例具体介绍周期边界条件的设置。假设该结构在水平方向上（也即x方向）施加应变载荷 $\epsilon$，而在其他两个方向没有载荷。把中间的一块区域提取出来作为结构的RVE，该单元的四个边界上需要施加相应的边界条件：
 
-* 在x方向上的边界上 $\Gamma_x$ 存在位移载荷约束；
-* 在y方向上的边界上 $\Gamma_y$ 存在周期边界。
+* 在x方向上的边界上 $\Gamma_l$ 和 $\Gamma_r$ 存在应变载荷；
+* 在y方向上的边界上 $\Gamma_b$ 和 $\Gamma_t$ 存在周期边界。
 
-假设在 $\Gamma_x$ 上的水平位移为 $u_x^{left}$ 和  $u_x^{right}$，在 $\Gamma_y$ 上的水平位移为 $u_y^{bottom}$ 和 $u_y^{top}$，上述两个条件可以写为：
-
-<div class="formula">
-\begin{equation*}
-u_x^{left}-u_x^{right}-u_x^{RefX}=0\\
-u_y^{bottom}-u_y^{top}-u_y^{RefY}=0
-\end{equation*}
-</div>
-
-其中 $u_x^{RefX}$ 和 $u_y^{RefY}$ 是两个参考点RefX和RefY在水平方向和垂直方向上的位移。位移载荷最后会施加在这两个参考点上，即
+假设在 $\Gamma_l$ 和 $\Gamma_r$ 边界上配对的两点为 $i$ 和 $j$，其位移分别为 $u_i$，$v_i$，$u_j$ 和 $v_j$，则上述第一个条件可以写为：
 
 <div class="formula">
 \begin{equation*}
-u_x^{RefX}=u\\
-u_y^{RefY}=0
+u_i-u_j=u_{Ref1}\\
+v_i-v_j=v_{Ref1}
 \end{equation*}
 </div>
+
+假设在 $\Gamma_b$ 和 $\Gamma_t$ 边界上配对的两点为 $k$ 和 $l$，其位移分别为 $u_k$，$v_k$，$u_l$ 和 $v_l$，则上述第二个条件可以写为：
+
+<div class="formula">
+\begin{equation*}
+u_k-u_l=u_{Ref2}\\
+v_k-v_l=v_{Ref2}
+\end{equation*}
+</div>
+
+其中 $u_{Ref1}$，$v_{Ref1}$，$u_{Ref2}$ 和 $v_{Ref2}$ 是两个参考点Ref1和Ref2的位移。由于在x方向上存在应变载荷，所以两个参考点的x方向位移可以根据应变求得
+
+<div class="formula">
+\begin{equation*}
+u_{Ref1}=\epsilon*(x_i-x_j)\\
+u_{Ref2}=\epsilon*(x_k-x_l)
+\end{equation*}
+</div>
+
+上述x方向位移载荷施加在两个参考点上，由于在y方向上没有位移约束，所以参考点的y方向位移没有限制。
 
 在Abaqus中设置上述边界条件有如下步骤：
 
 * 确定两个参考点；
 * 确定四个边界上的节点编号，分别储存在left，right，bottom和top四个数组中；
-* 在对应的两个边界上例如left和right，以及bottom和top中，寻找距离最近的两个节点作为一对，设置边界条件。具体方法是采用双重循环，在left中任取一个节点M，然后遍历right中的所有节点，找到和节点M距离最近的节点，即为节点N，然后设置边界条件 $u_x^{left-M}-u_x^{right-N}-u_x^{RefX}=0$。bottom和top也采用类似操作；
+* 在对应的两个边界上例如left和right，以及bottom和top中，寻找距离最近的两个节点作为一对，设置边界条件。具体方法是采用双重循环，在left中任取一个节点M，然后遍历right中的所有节点，找到和节点M距离最近的节点，即为与之配对的节点N。bottom和top也采用类似操作；
 * 在load模块中设置两个参考点的位移约束。
 
 ## 2D算例
@@ -59,7 +70,7 @@ u_y^{RefY}=0
   <small>整体结构的应变</small>
 </div>
 
-其中心的单元的变形如下图所示：
+其中心区域的变形如下图所示：
 
 <div class="figure">
   <img src="{{ site.baseurl }}/img/Total-LE11-Center.jpg"> <br />
