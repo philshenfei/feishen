@@ -39,7 +39,8 @@ title: Publications
 
 ## Conference paper
 
-* **Shen, F.**, Zhang, M., Hu, W., & Meng, Q. (2011). Finite element analysis of large span suspension bridge. Proceedings of the fourth international conference on modelling and simulation, Phuket, Thailand, April 25-27.  
+* **Shen, F.**, Zhang, M., Hu, W., & Meng, Q. (2011). Finite element analysis of large span suspension bridge. The Fourth International Conference on Modelling and Simulation, Phuket, Thailand, April 25-27.  
+* Yuan, S., **Shen, F.**, Bai, J., Chua, C. K., Zhou, K., & Wei, J. 3D soft metamaterials fabricated by selective laser sintering of polyurethane. Annual International Solid Freeform Fabrication Symposium, Austin, Texas, USA, August 7-10, 2016.
 
 [1]: {{ site.baseurl }}/file/Paper 1.pdf
 [2]: {{ site.baseurl }}/file/Paper 2.pdf
