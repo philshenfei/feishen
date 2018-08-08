@@ -38,7 +38,7 @@ title: Publications
 
 <hr>
 
-## Conference papers
+## Conference paper
 
 * **Fei Shen**, Miao Zhang, Weiping Hu, Qingchun Meng. Finite element analysis of large span suspension bridge. *<u>The Fourth International Conference on Modelling and Simulation</u>*, Phuket, Thailand, April 25-27, 2011.  
 
