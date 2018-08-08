@@ -41,7 +41,6 @@ title: Publications
 ## Conference papers
 
 * **Fei Shen**, Miao Zhang, Weiping Hu, Qingchun Meng. Finite element analysis of large span suspension bridge. *<u>The Fourth International Conference on Modelling and Simulation</u>*, Phuket, Thailand, April 25-27, 2011.  
-* Shangqin Yuan, **Fei Shen**, Jiaming Bai, Chee Kai Chua, Kun Zhou, Jun Wei, 3D soft metamaterials fabricated by selective laser sintering of polyurethane. *<u>Annual International Solid Freeform Fabrication Symposium</u>*, Austin, Texas, USA, August 7-10, 2016.
 
 [1]: {{ site.baseurl }}/file/Paper 1.pdf
 [2]: {{ site.baseurl }}/file/Paper 2.pdf
