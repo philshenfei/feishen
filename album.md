@@ -4,6 +4,30 @@ title: Album
 ---
 
 <div class="figure">
+  <img src="{{ site.baseurl }}/img/album/2018-07-08.jpg">
+</div>
+<small>▲ 2018/07/08 @在芽笼见见世面</small
+
+<div class="figure">
+  <img src="{{ site.baseurl }}/img/album/2018-06-28.jpg">
+  <img src="{{ site.baseurl }}/img/album/2018-06-28-2.jpg">
+  <img src="{{ site.baseurl }}/img/album/2018-06-28-3.jpg">
+  <img src="{{ site.baseurl }}/img/album/2018-06-28-4.jpg">
+  <img src="{{ site.baseurl }}/img/album/2018-06-28-5.jpg">
+</div>
+<small>▲ 2018/06/28 @新加坡Downtown</small>
+
+<div class="figure">
+  <img src="{{ site.baseurl }}/img/album/2018-05-07.jpg">
+</div>
+<small>▲ 2018/05/07 @北航唯实论坛</small>
+
+<div class="figure">
+  <img src="{{ site.baseurl }}/img/album/2018-03-17.jpg">
+</div>
+<small>▲ 2018/03/17 红白风铃木</small>
+
+<div class="figure">
   <img src="{{ site.baseurl }}/img/album/2018-02-15.jpg">
 </div>
 <small>▲ 2018/02/15 @回家过年看到大伯做的龙舟龙头</small>
