@@ -6,7 +6,7 @@ title: Album
 <div class="figure">
   <img src="{{ site.baseurl }}/img/album/2018-07-08.jpg">
 </div>
-<small>▲ 2018/07/08 @在芽笼见见世面</small
+<small>▲ 2018/07/08 @在芽笼见见世面</small>
 
 <div class="figure">
   <img src="{{ site.baseurl }}/img/album/2018-06-28.jpg">
