@@ -7,6 +7,7 @@ title: Publications
 
 ### 2018
 
+* **Fei Shen**, Kun Zhou, Investigation on thermal response in fretting sliding with the consideration of plastic dissipation, surface roughness and wear. *<u>International Journal of Mechanical Sciences</u>*, 2018.
 * Jiawei Huang, Qingchun Meng, Zhixin Zhan, Weiping Hu, **Fei Shen**. Damage-mechanics based approach to studying effects of overload on fatigue life of notched specimens. *<u>International Journal of Damage Mechanics</u>*, 1056789518775173, 2018. [pdf][20] 
 * Fukai Li, Weiping Hu, Qingchun Meng, Zhixin Zhan, **Fei Shen**. A new damage-mechanics-based model for rolling contact fatigue analysis of cylindrical roller bearing. *<u>Tribology International</u>*, 120, 105-114, 2018. [pdf][19]
 * **Fei Shen**, Shangqin Yuan, Chee Kai Chua, Kun Zhou. Development of process efficiency maps for selective laser sintering of polymeric composite powders: Modeling and experimental testing. *<u>Journal of Materials Processing Technology</u>*, 254, 52-59, 2018. [pdf][18] 
