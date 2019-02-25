@@ -7,6 +7,10 @@ title: Publications
 
 ## Journal papers
 
+### 2019
+
+* Pengfei Tan, **Fei Shen**, Biao Li, Kun Zhou, A thermo-metallurgical-mechanical model for selective laser melting of Ti6Al4V. *<u>Materials and Design</u>*, 168, 107642, 2019. [pdf][22]
+
 ### 2018
 
 * **Fei Shen**, Kun Zhou, Investigation on thermal response in fretting sliding with the consideration of plastic dissipation, surface roughness and wear. *<u>International Journal of Mechanical Sciences</u>*, 148, 94-102, 2018. [pdf][21]
@@ -66,3 +70,4 @@ title: Publications
 [19]: {{ site.baseurl }}/file/Paper 19.pdf
 [20]: {{ site.baseurl }}/file/Paper 20.pdf
 [21]: {{ site.baseurl }}/file/Paper 21.pdf
+[22]: {{ site.baseurl }}/file/Paper 22.pdf
