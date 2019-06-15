@@ -9,7 +9,8 @@ title: Publications
 
 ### 2019
 
-* Pengfei Tan, **Fei Shen**, Biao Li, Kun Zhou, A thermo-metallurgical-mechanical model for selective laser melting of Ti6Al4V. *<u>Materials and Design</u>*, 168, 107642, 2019. [pdf][22]
+* Shangqin Yuan, **Fei Shen**, Chee Kai Chua, KunZhou, Polymeric composites for powder-based additive manufacturing: Materials and applications. *<u>Progress in Polymer Science</u>*, 91, 141-168, 2019. [pdf][23]
+* Pengfei Tan, **Fei Shen**, Biao Li, Kun Zhou, A thermo-metallurgical-mechanical model for selective laser melting of Ti6Al4V. *<u>Materials & Design</u>*, 168, 107642, 2019. [pdf][22]
 
 ### 2018
 
@@ -71,3 +72,4 @@ title: Publications
 [20]: {{ site.baseurl }}/file/Paper 20.pdf
 [21]: {{ site.baseurl }}/file/Paper 21.pdf
 [22]: {{ site.baseurl }}/file/Paper 22.pdf
+[23]: {{ site.baseurl }}/file/Paper 23.pdf
