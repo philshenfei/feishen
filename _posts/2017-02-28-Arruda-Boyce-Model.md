@@ -1,9 +1,9 @@
 ---
-title: Aurrda-Boyce本构模型
+title: Arruda-Boyce本构模型
 cover-image: mcboyce.jpg
 ---
 
-在介绍 Aurrda-Boyce 本构模型*<small><font color="grey">简称 AB 模型</font></small>*之前，我先简单介绍下 MC Boyce 吧。上图中的 Boyce 看起来很和蔼，年轻时必定是个大美女。扯远了，她绝对是个力学大牛，尤其是在高分子材料力学行为研究这一块，感觉无人能出其右。现在我们使用的高分子材料本构模型大部分出自其手，上一篇博客中的 TPU 本构模型也在其中。引用两段关于她的介绍：
+在介绍 Arruda-Boyce 本构模型*<small><font color="grey">简称 AB 模型</font></small>*之前，我先简单介绍下 MC Boyce 吧。上图中的 Boyce 看起来很和蔼，年轻时必定是个大美女。扯远了，她绝对是个力学大牛，尤其是在高分子材料力学行为研究这一块，感觉无人能出其右。现在我们使用的高分子材料本构模型大部分出自其手，上一篇博客中的 TPU 本构模型也在其中。引用两段关于她的介绍：
 
 > Mary C. Boyce is Dean of Engineering at The Fu Foundation School of Engineering and Applied Science at Columbia University in the City of New York and the Morris A. and Alma Schapiro Professor of Engineering. Prior to joining Columbia, Dean Boyce served on the faculty of the Massachusetts Institute of Technology (MIT) for over 25 years, leading the Mechanical Engineering Department from 2008 to 2013. 
 >
