@@ -5,7 +5,12 @@ title: Projects
 
 ## Research projects
 
-* 3D printing of polymeric materials and their nanocomposites &nbsp; 03/2016 ~ present
+* Rolling contact fatigue analysis for the wheel/rail system &nbsp; 12/2017 ~ current
+  - Dynamics analysis for contact forces between the wheel and rail
+  - Finite element analysis for subsurface stresses in the wheel/rail system
+  - Fatigue damage analysis for rolling contact fatigue lifetime
+
+* 3D printing of polymeric materials and their nanocomposites &nbsp; 03/2016 ~ 11/2017
   - Process modeling of selective laser sintering
   - Mechanical and thermal behaviors of polymeric materials and their nanocomposites
   - Energy absorption of 3D printed light-weight structures  
