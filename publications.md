@@ -9,7 +9,7 @@ title: Publications
 
 ### 2019
 
-* Shangqin Yuan, **Fei Shen**, Chee Kai Chua, KunZhou, Polymeric composites for powder-based additive manufacturing: Materials and applications. *<u>Progress in Polymer Science</u>*, 91, 141-168, 2019. [pdf][23]
+* Shangqin Yuan, **Fei Shen**, Chee Kai Chua, Kun Zhou, Polymeric composites for powder-based additive manufacturing: Materials and applications. *<u>Progress in Polymer Science</u>*, 91, 141-168, 2019. [pdf][23]
 * Pengfei Tan, **Fei Shen**, Biao Li, Kun Zhou, A thermo-metallurgical-mechanical model for selective laser melting of Ti6Al4V. *<u>Materials & Design</u>*, 168, 107642, 2019. [pdf][22]
 
 ### 2018
