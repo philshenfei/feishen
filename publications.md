@@ -9,6 +9,8 @@ title: Publications
 
 ### 2019
 
+* **Fei Shen**, Guozheng Kang, Yee Cheong Lam, Yujie Liu, Kun Zhou, Thermo-elastic-viscoplastic-damage model for self-heating and mechanical behavior of thermoplastic polymers. <u>International Journal of Plasticity</u>*, 121, 227-243, 2019. [pdf][25] 
+* **Fei Shen**, Kun Zhou, An elasto-plastic-damage model for initiation and propagation of spalling in rolling bearings. <u>International Journal of Mechanical Sciences</u>*, 161-162, 105058, 2019. [pdf][24] 
 * Shangqin Yuan, **Fei Shen**, Chee Kai Chua, Kun Zhou, Polymeric composites for powder-based additive manufacturing: Materials and applications. *<u>Progress in Polymer Science</u>*, 91, 141-168, 2019. [pdf][23]
 * Pengfei Tan, **Fei Shen**, Biao Li, Kun Zhou, A thermo-metallurgical-mechanical model for selective laser melting of Ti6Al4V. *<u>Materials & Design</u>*, 168, 107642, 2019. [pdf][22]
 
@@ -73,3 +75,5 @@ title: Publications
 [21]: {{ site.baseurl }}/file/Paper 21.pdf
 [22]: {{ site.baseurl }}/file/Paper 22.pdf
 [23]: {{ site.baseurl }}/file/Paper 23.pdf
+[24]: {{ site.baseurl }}/file/Paper 24.pdf
+[25]: {{ site.baseurl }}/file/Paper 25.pdf
