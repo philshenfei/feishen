@@ -4,6 +4,13 @@ title: Album
 ---
 
 <div class="figure">
+  <img src="{{ site.baseurl }}/img/album/2018-11-06.jpg">
+  <img src="{{ site.baseurl }}/img/album/2018-11-06-2.jpg">
+  <img src="{{ site.baseurl }}/img/album/2018-11-06-3.jpg">
+</div>
+<small>▲ 2018/11/06 @新加坡总统府开放日</small>
+
+<div class="figure">
   <img src="{{ site.baseurl }}/img/album/2018-07-08.jpg">
 </div>
 <small>▲ 2018/07/08 @在芽笼见见世面</small>
