@@ -5,7 +5,7 @@ title: Experience
 
 ## Work
 
-* Research Fellow &nbsp; 03/2016 ~ present <br> School of Mechanical and Aerospace Engineering, Nanyang Technological University, Singapore 
+* Research Fellow &nbsp; 03/2016 ~ present <br> Nanyang Technological University, Singapore 
 
 <hr>
 
