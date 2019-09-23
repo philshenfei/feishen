@@ -50,8 +50,8 @@ title: Publications
 
 ## Conference paper
 
-* Lichun Bai, Biao Li, **Fei Shen**, Wai Yi Ng, Mohamad Fairuz Bin Mohamad Yusoff, Swee Thiam Lim, Kun Zhou. An integrated approach for predicting wear and fatigue damage of wheels and rails in SMRT systems. *<u>2018 International Conference on Intelligent Rail Transportation (ICIRT)</u>*, Singapore, December 12-14, 2018
-* **Fei Shen**, Miao Zhang, Weiping Hu, Qingchun Meng. Finite element analysis of large span suspension bridge. *<u>The Fourth International Conference on Modelling and Simulation</u>*, Phuket, Thailand, April 25-27, 2011
+* Lichun Bai, Biao Li, **Fei Shen**, Wai Yi Ng, Mohamad Fairuz Bin Mohamad Yusoff, Swee Thiam Lim, Kun Zhou. An integrated approach for predicting wear and fatigue damage of wheels and rails in SMRT systems. *<u>International Conference on Intelligent Rail Transportation (ICIRT 2018)</u>*, Singapore, December 12-14, 2018
+* **Fei Shen**, Miao Zhang, Weiping Hu, Qingchun Meng. Finite element analysis of large span suspension bridge. *<u>4th International Conference on Modelling and Simulation (ICMS 2011)</u>*, Phuket, Thailand, April 25-27, 2011
 
  
 
