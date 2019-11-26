@@ -5,7 +5,7 @@ title: Projects
 
 ## Research projects
 
-* Rolling contact fatigue analysis for the wheel/rail system &nbsp; 12/2017 ~ current
+* Rolling contact fatigue analysis for the wheel/rail system &nbsp; 12/2017 ~ 10/2019
   - Dynamics analysis for contact forces between the wheel and rail
   - Finite element analysis for subsurface stresses in the wheel/rail system
   - Fatigue damage analysis for rolling contact fatigue lifetime
