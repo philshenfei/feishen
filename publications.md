@@ -3,7 +3,7 @@ layout: default
 title: Publications 
 ---
 
-<span id='badgeCont865257' style='width:126px'><script src='http://labs.researcherid.com/mashlets?el=badgeCont865257&mashlet=badge&showTitle=false&className=a&rid=P-7375-2018'></script></span>
+<span id="badgeCont948"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont948&rid=AAF-2722-2019"></script></span>
 
 ## Journal papers
 
