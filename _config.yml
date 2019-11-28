@@ -62,7 +62,7 @@ display-next-prev-post: true
 
 # Leave empty if you don't want comments on post pages.
 # disqus-shortname: philshenfei  
-
+disqus-shortname:
 
 #####################
 # CUSTOMIZABLE TEXT #
