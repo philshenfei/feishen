@@ -175,8 +175,7 @@ title: Album
 <small>▲ 2012/11/13 @柳州与悦悦参加健斌婚礼</small>
 
 <div class="figure">
-  <img src="{{ site.baseurl }}/img/album/2012-04-30.jpg"> <br />
-  <img src="{{ site.baseurl }}/img/album/2012-04-30-2.jpg">  
+  <img src="{{ site.baseurl }}/img/album/2012-04-30.jpg"> 
 </div>
 <small>▲ 2012/04/30 @与仿爷参观北京车展</small>
 
@@ -185,11 +184,6 @@ title: Album
   <img src="{{ site.baseurl }}/img/album/2011-11-19-2.jpg">  
 </div>
 <small>▲ 2011/11/19 @与东辰骑车十三陵</small>
-
-<div class="figure">
-  <img src="{{ site.baseurl }}/img/album/2011-04-25.jpg"> 
-</div>
-<small>▲ 2011/04/25 @教研室强哥生日</small>
 
 <div class="figure">
   <img src="{{ site.baseurl }}/img/album/2009-06-12.jpg"> 
