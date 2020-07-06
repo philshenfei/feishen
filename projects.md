@@ -25,4 +25,4 @@ title: Projects
 <div class="figure">
   <img src="{{ site.baseurl }}/img/FF.jpg">
 </div>
-<small>¡ø 2D FE model of fretting fatigue</small>
+<small>¡ø FE model of fretting fatigue</small>
