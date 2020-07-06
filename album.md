@@ -197,11 +197,6 @@ title: Album
 <small>▲ 2009/06/12 @本科毕业照</small>
 
 <div class="figure">
-  <img src="{{ site.baseurl }}/img/album/2009-06-11.jpg"> 
-</div>
-<small>▲ 2009/06/11 @本科毕业聚餐，不堪入目</small>
-
-<div class="figure">
   <img src="{{ site.baseurl }}/img/album/2006-12-16.jpg"> 
 </div>
 <small>▲ 2006/12/16 @誓师大会</small>
