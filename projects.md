@@ -16,9 +16,20 @@ title: Projects
   - Energy absorption of 3D printed light-weight structures
 
 <div class="figure">
-  <img src="{{ site.baseurl }}/img/SLS process.tiff">
+  <img src="{{ site.baseurl }}/img/SLS process.jpg">
 </div>
 <small>▲ SLS process</small>  
+
+<div class="figure">
+  <img src="{{ site.baseurl }}/img/Validation.jpg">
+</div>
+<small>▲ Experiment validation of melt pool depth</small> 
+
+<div class="figure">
+  <img src="{{ site.baseurl }}/img/SLS parameter optimization.jpg">
+</div>
+<small>▲ SLS process parameter optimization</small> 
+
     
 
 * Contunuum damage mechanics investigation of the fretting fatigue &nbsp; 06/2012 ~ 07/2015
