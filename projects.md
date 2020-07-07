@@ -25,7 +25,7 @@ title: Projects
 <div class="figure">
   <img src="{{ site.baseurl }}/img/Contact-All.png">
 </div>
-<small>▲ Complex materials science phenomena in intense mechanical/environmental contacts *<u>[Figure source](https://www.mpie.de/4129501/2019_Vol_13_Issue1)</u>*</small>
+<small>▲ Complex materials science phenomena in intense mechanical/environmental contacts [*<u>Figure source</u>*](https://www.mpie.de/4129501/2019_Vol_13_Issue1)</small>
 
 <div class="figure">
   <img src="{{ site.baseurl }}/img/Contact-Part.jpg">
