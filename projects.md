@@ -36,3 +36,8 @@ title: Projects
   <img src="{{ site.baseurl }}/img/FF.jpg" width="80%">
 </div>
 <small>▲ Two-dimensional FE model of fretting fatigue</small>
+
+<div class="figure">
+  <img src="{{ site.baseurl }}/img/Fatigue damage.jpg" width="80%">
+</div>
+<small>▲ Fatigue damage distibutions under partial slip and gross sliding conditions</small>
