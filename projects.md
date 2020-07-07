@@ -13,14 +13,21 @@ title: Projects
 * 3D printing of polymeric materials and their nanocomposites &nbsp; 03/2016 ~ 11/2017
   - Process modeling of selective laser sintering
   - Mechanical and thermal behaviors of polymeric materials and their nanocomposites
-  - Energy absorption of 3D printed light-weight structures  
+  - Energy absorption of 3D printed light-weight structures
+
+<div class="figure">
+  <img src="{{ site.baseurl }}/img/SLS process.tiff">
+</div>
+<small>▲ SLS process</small>  
+    
 
 * Contunuum damage mechanics investigation of the fretting fatigue &nbsp; 06/2012 ~ 07/2015
   - Finite element simulation of fretting contact
-  - Study of the effect of wear on stress and fretting fatigue life
-  - Fretting fatigue life prediction by combining the damage coupled elastic-plastic constitutive model, damage evolution model and wear model
-  - Finite element implementation of the approach using user subroutines in ABAQUS
+  - Development of the damage coupled elastic-plastic constitutive model, damage evolution model and wear model
+  - Prediction of fretting fatigue life and wear profile through finite element implementation of these models
+  - Study of the effect of wear on stresses and fretting fatigue life
   - Analysis of the effect of stress gradient on fretting fatigue life
+
 
 <div class="figure">
   <img src="{{ site.baseurl }}/img/Contact-All.png" width="80%">
@@ -40,4 +47,4 @@ title: Projects
 <div class="figure">
   <img src="{{ site.baseurl }}/img/Fatigue damage.jpg" width="80%">
 </div>
-<small>▲ Fatigue damage distibutions under partial slip and gross sliding conditions</small>
+<small>▲ Fatigue damage distributions under partial slip and gross sliding conditions</small>
