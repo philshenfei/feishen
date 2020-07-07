@@ -16,7 +16,7 @@ title: Projects
   - Energy absorption of 3D printed light-weight structures
 
 <div class="figure">
-  <img src="{{ site.baseurl }}/img/SLS process.jpg"  width="80%">
+  <img src="{{ site.baseurl }}/img/SLS process.jpg"  width="60%">
 </div>
 <small>▲ SLS process</small>  
 
@@ -62,4 +62,4 @@ title: Projects
 <div class="figure">
   <img src="{{ site.baseurl }}/img/FF results.jpg" width="80%">
 </div>
-<small>▲ Fatigue fatigue wear results ($\delta=32.1\mum$) and lifetimes</small>
+<small>▲ Fatigue fatigue wear results ($\delta=32.1\mu m$) and lifetimes</small>
