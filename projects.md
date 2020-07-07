@@ -23,16 +23,16 @@ title: Projects
   - Analysis of the effect of stress gradient on fretting fatigue life
 
 <div class="figure">
-  <img src="{{ site.baseurl }}/img/Contact-All.png">
+  <img src="{{ site.baseurl }}/img/Contact-All.png" width="80%">
 </div>
 <small>▲ Complex materials science phenomena in intense mechanical/environmental contacts [*<u>Figure source</u>*](https://www.mpie.de/4129501/2019_Vol_13_Issue1)</small>
 
 <div class="figure">
-  <img src="{{ site.baseurl }}/img/Contact-Part.jpg">
+  <img src="{{ site.baseurl }}/img/Contact-Part.jpg" width="80%">
 </div>
 <small>▲ Simplified schematic of fretting fatigue</small>
 
 <div class="figure">
-  <img src="{{ site.baseurl }}/img/FF.jpg">
+  <img src="{{ site.baseurl }}/img/FF.jpg" width="80%">
 </div>
 <small>▲ Two-dimensional FE model of fretting fatigue</small>
