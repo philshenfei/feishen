@@ -25,7 +25,7 @@ title: Projects
 <div class="figure">
   <img src="{{ site.baseurl }}/img/Contact-All.png">
 </div>
-<small>▲ Underlying phycical problems of contact (Figure from https://www.mpie.de/4129501/2019_Vol_13_Issue1)</small>
+<small>▲ Underlying phycical problems of contact [Figure source](https://www.mpie.de/4129501/2019_Vol_13_Issue1)</small>
 
 <div class="figure">
   <img src="{{ site.baseurl }}/img/Contact-Part.jpg">
