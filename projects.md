@@ -26,7 +26,7 @@ title: Projects
 <small>▲ Experiment validation of melt pool depth</small> 
 
 <div class="figure">
-  <img src="{{ site.baseurl }}/img/SLS parameter optimization.jpg"  width="80%">
+  <img src="{{ site.baseurl }}/img/SLS parameter optimization.jpg"  width="90%">
 </div>
 <small>▲ SLS process parameter optimization</small> 
 
@@ -59,3 +59,8 @@ title: Projects
   <img src="{{ site.baseurl }}/img/Fatigue damage.jpg" width="80%">
 </div>
 <small>▲ Fatigue damage distributions under partial slip and gross sliding conditions</small>
+
+<div class="figure">
+  <img src="{{ site.baseurl }}/img/FF results.jpg" width="80%">
+</div>
+<small>▲ Fatigue fatigue wear results (\delta=32.1\mum) and lifetimes</small>
