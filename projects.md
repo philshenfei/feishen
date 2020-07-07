@@ -23,6 +23,16 @@ title: Projects
   - Analysis of the effect of stress gradient on fretting fatigue life
 
 <div class="figure">
+  <img src="{{ site.baseurl }}/img/Contact-All.png">
+</div>
+<small>▲ Underlying phycical problems of contact</small>
+
+<div class="figure">
+  <img src="{{ site.baseurl }}/img/Contact-Part.jpg">
+</div>
+<small>▲ Simplified schematic of fretting fatigue</small>
+
+<div class="figure">
   <img src="{{ site.baseurl }}/img/FF.jpg">
 </div>
 <small>▲ Two-dimensional FE model of fretting fatigue</small>
