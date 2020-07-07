@@ -16,7 +16,7 @@ title: Projects
   - Energy absorption of 3D printed light-weight structures
 
 <div class="figure">
-  <img src="{{ site.baseurl }}/img/SLS process.jpg"  width="60%">
+  <img src="{{ site.baseurl }}/img/SLS process.jpg"  width="50%">
 </div>
 <small>▲ SLS process</small>  
 
