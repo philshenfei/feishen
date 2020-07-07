@@ -21,12 +21,12 @@ title: Projects
 <small>▲ SLS process</small>  
 
 <div class="figure">
-  <img src="{{ site.baseurl }}/img/Validation.jpg"  width="60%">
+  <img src="{{ site.baseurl }}/img/Validation.jpg"  width="80%">
 </div>
 <small>▲ Experiment validation of melt pool depth</small> 
 
 <div class="figure">
-  <img src="{{ site.baseurl }}/img/SLS parameter optimization.jpg">
+  <img src="{{ site.baseurl }}/img/SLS parameter optimization.jpg"  width="80%">
 </div>
 <small>▲ SLS process parameter optimization</small> 
 
