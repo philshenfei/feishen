@@ -29,7 +29,6 @@ title: Projects
   <img src="{{ site.baseurl }}/img/SLS parameter optimization.jpg"  width="90%">
 </div>
 <small>▲ SLS process parameter optimization</small> 
-
     
 
 * Contunuum damage mechanics investigation of the fretting fatigue &nbsp; 06/2012 ~ 07/2015
@@ -63,4 +62,4 @@ title: Projects
 <div class="figure">
   <img src="{{ site.baseurl }}/img/FF results.jpg" width="80%">
 </div>
-<small>▲ Fatigue fatigue wear results (\delta=32.1\mum) and lifetimes</small>
+<small>▲ Fatigue fatigue wear results ($\delta=32.1\mum$) and lifetimes</small>
