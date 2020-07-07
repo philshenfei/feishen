@@ -21,7 +21,7 @@ title: Projects
 <small>▲ SLS process</small>  
 
 <div class="figure">
-  <img src="{{ site.baseurl }}/img/Validation.jpg">
+  <img src="{{ site.baseurl }}/img/Validation.jpg"  width="60%">
 </div>
 <small>▲ Experiment validation of melt pool depth</small> 
 
