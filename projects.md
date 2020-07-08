@@ -17,9 +17,9 @@ title: Projects
 
 <div class="figure">
   <img src="{{ site.baseurl }}/img/SLS process.jpg"  width="50%">
+  <small>▲ SLS process</small> 
 </div>
-<small>▲ SLS process</small>  
-
+ 
 <div class="figure">
   <img src="{{ site.baseurl }}/img/Validation.jpg"  width="80%">
 </div>
@@ -45,7 +45,7 @@ title: Projects
 <small>▲ Complex materials science phenomena in intense mechanical/environmental contacts [*<u>Figure source</u>*](https://www.mpie.de/4129501/2019_Vol_13_Issue1)</small>
 
 <div class="figure">
-  <img src="{{ site.baseurl }}/img/Contact-Part.jpg" width="80%">
+  <img src="{{ site.baseurl }}/img/Contact-Part.jpg" width="70%">
 </div>
 <small>▲ Simplified schematic of fretting fatigue</small>
 
