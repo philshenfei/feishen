@@ -4,8 +4,8 @@ title: Album
 ---
 
 <div class="figure">
-  <img src="{{ site.baseurl }}/img/album/2018-11-06.jpg">
-  <img src="{{ site.baseurl }}/img/album/2018-11-06-2.jpg">
+  <img src="{{ site.baseurl }}/img/album/2018-11-06.jpg"> <br />
+  <img src="{{ site.baseurl }}/img/album/2018-11-06-2.jpg"> <br />
   <img src="{{ site.baseurl }}/img/album/2018-11-06-3.jpg">
 </div>
 <small>▲ 2018/11/06 @新加坡总统府开放日</small>
@@ -16,10 +16,10 @@ title: Album
 <small>▲ 2018/07/08 @在芽笼见见世面</small>
 
 <div class="figure">
-  <img src="{{ site.baseurl }}/img/album/2018-06-28.jpg">
-  <img src="{{ site.baseurl }}/img/album/2018-06-28-2.jpg">
-  <img src="{{ site.baseurl }}/img/album/2018-06-28-3.jpg">
-  <img src="{{ site.baseurl }}/img/album/2018-06-28-4.jpg">
+  <img src="{{ site.baseurl }}/img/album/2018-06-28.jpg"> <br />
+  <img src="{{ site.baseurl }}/img/album/2018-06-28-2.jpg"> <br />
+  <img src="{{ site.baseurl }}/img/album/2018-06-28-3.jpg"> <br />
+  <img src="{{ site.baseurl }}/img/album/2018-06-28-4.jpg"> <br />
   <img src="{{ site.baseurl }}/img/album/2018-06-28-5.jpg">
 </div>
 <small>▲ 2018/06/28 @新加坡Downtown</small>

@@ -34,9 +34,10 @@ title: Projects
 
 <div class="figure">
   <img src="{{ site.baseurl }}/img/FF results.jpg" width="80%">
-  <small>▲ Fatigue fatigue wear results ($\Delta=32.1\mu m$) and lifetimes</small>
-</div>
-
+  <small>▲ Fatigue fatigue wear results ($\Delta=32.1\mu m$) and lifetimes</small> <br />
+  <br/>
+</div>  
+    
     
 ***
 
